@@ -1,0 +1,29 @@
+title: "AI実践ラボ"
+description: "AIツールの実践的な使い方・業務効率化・自動化のノウハウを発信"
+baseurl: "/toto2014jp"
+url: "https://toto2014jp-prog.github.io"
+permalink: /:year/:month/:day/:title/
+
+author:
+  name: "AI実践ラボ編集部"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "AI実践ラボ編集部"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
