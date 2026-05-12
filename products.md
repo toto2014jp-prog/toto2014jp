@@ -35,7 +35,7 @@ AI実践ラボが制作した、すぐに使える実践的なデジタルコン
 - 各フェーズに目安期間・おすすめツール早見表付き
 - 副業未経験でも迷わず始められる実践ガイド
 
-**価格: ¥500**
+**価格: ¥980**
 
 [購入ページへ（Gumroad）](https://aijissenlab.gumroad.com/l/tokndw){: .buy-button}
 
@@ -50,7 +50,7 @@ AI実践ラボが制作した、すぐに使える実践的なデジタルコン
 - WordPress初期設定チェックリスト付き
 - 月1万円達成の収益モデル例を掲載
 
-**価格: ¥500**
+**価格: ¥980**
 
 [購入ページへ（Gumroad）](https://aijissenlab.gumroad.com/l/zxrhbg){: .buy-button}
 
