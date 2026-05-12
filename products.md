@@ -21,8 +21,7 @@ AI実践ラボが制作した、すぐに使える実践的なデジタルコン
 
 **価格: ¥500**
 
-<!-- Gumroad販売リンク（アカウント作成後に差し替え） -->
-[購入ページへ](#){: .buy-button}
+[購入ページへ（Gumroad）](https://aijissenlab.gumroad.com/l/yjcdam){: .buy-button}
 
 ---
 
@@ -36,7 +35,7 @@ AI実践ラボが制作した、すぐに使える実践的なデジタルコン
 
 **価格: ¥500**
 
-[購入ページへ](#){: .buy-button}
+[購入ページへ（Gumroad）](https://aijissenlab.gumroad.com/l/tokndw){: .buy-button}
 
 ---
 
@@ -50,7 +49,7 @@ AI実践ラボが制作した、すぐに使える実践的なデジタルコン
 
 **価格: ¥500**
 
-[購入ページへ](#){: .buy-button}
+[購入ページへ（Gumroad）](https://aijissenlab.gumroad.com/l/zxrhbg){: .buy-button}
 
 ---
 
