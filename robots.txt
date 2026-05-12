@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toto2014jp-prog.github.io/toto2014jp/sitemap.xml
