@@ -146,6 +146,18 @@ body {
   font-size: 0.85rem;
 }
 
+.footer-links {
+  margin-top: 8px;
+}
+.footer-links a {
+  color: var(--text-light);
+  text-decoration: none;
+}
+.footer-links a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
 /* Buy Button */
 .buy-button {
   display: inline-block;
