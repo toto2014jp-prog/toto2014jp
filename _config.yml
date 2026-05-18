@@ -33,6 +33,7 @@ google_analytics: "G-DB98DFE0DN"
 
 include:
   - google955a0b3445611c56.html
+  - promo_feed.xml
 
 exclude:
   - README.md
