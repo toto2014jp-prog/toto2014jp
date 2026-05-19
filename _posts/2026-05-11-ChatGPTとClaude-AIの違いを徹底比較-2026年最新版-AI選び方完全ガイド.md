@@ -163,7 +163,7 @@ ChatGPTから**Claude AIへの乗り換え・併用**を検討している方に
 
 ### 移行時の注意点
 
-1. **画像生成は別途ツールが必要**: ClaudeはDALL-Eのような画像生成機能を持たないため、Midjourneyや他のツールを併用する必要があります
+1. **画像生成は別途ツールが必要**: ClaudeはDALL-Eのような画像生成機能を持たないため、Midjourneyや他のツールを併用する必要があります。手軽に始めるなら<a href="https://px.a8.net/svt/ejp?a8mat=4B3U76+3I7X0Y+50+7RU5R6" rel="nofollow">ConoHa AI Canvas byGMO</a>がおすすめ——ブラウザだけで使えてインストール不要、月額990円から利用できる。<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B3U76+3I7X0Y+50+7RU5R6" alt="">
 2. **プロンプトの最適化が必要**: ChatGPTとClaudeではプロンプトへの応答スタイルが異なります。Claudeは詳細な文脈や背景情報を与えるとより精度が上がります
 3. **音声機能の制限**: 高度な音声対話が必要な場合はChatGPTを維持する選択も有効です
 4. **APIの互換性**: 既存システムとのAPI連携を行っている場合、Anthropic APIへの移行にはコード修正が必要です
