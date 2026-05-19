@@ -1,7 +1,7 @@
 title: "AI実践ラボ"
 description: "AIツールの実践的な使い方・業務効率化・自動化のノウハウを発信"
-baseurl: "/toto2014jp"
-url: "https://toto2014jp-prog.github.io"
+baseurl: ""
+url: "https://ai-jissen-lab.com"
 permalink: /:year/:month/:day/:title/
 
 author:

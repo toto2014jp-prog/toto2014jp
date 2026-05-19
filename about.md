@@ -34,14 +34,14 @@ AIツールを日常的に活用し、業務効率化や副業に取り組んで
 | 項目 | 内容 |
 |------|------|
 | サイト名 | AI実践ラボ |
-| URL | [https://toto2014jp-prog.github.io/toto2014jp](https://toto2014jp-prog.github.io/toto2014jp) |
+| URL | [https://ai-jissen-lab.com](https://ai-jissen-lab.com) |
 | 開設日 | 2026年5月 |
-| お問い合わせ | [お問い合わせページ](/toto2014jp/contact/) |
+| お問い合わせ | [お問い合わせページ](/contact/) |
 
 ### SNS・フィード
 
 - **X (Twitter)**: [@AI1255321281912](https://x.com/AI1255321281912) - 最新記事やAI活用tipsを配信中
-- **RSS**: [フィードを購読](/toto2014jp/feed.xml)
+- **RSS**: [フィードを購読](/feed.xml)
 
 ### デジタル商品
 
