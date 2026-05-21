@@ -42,6 +42,10 @@ AIアシスタント市場を牽引する**ChatGPT**と**Claude AI**。どちら
 
 ---
 
+
+
+> 💡 **関連教材**: [ChatGPT＆Claude AIプロンプト集50選（¥980）](https://aijissenlab.gumroad.com/l/yjcdam) — コピペで即使える実践プロンプト50種を全24ページに凝縮
+
 ## 2. 性能・機能の詳細比較｜ChatGPT vs Claude
 
 以下の表で主要な性能・機能を比較します。
@@ -198,3 +202,29 @@ AIツールの料金が気になる方は「[AIツール料金を比較して最
 AIスキルを副業に活かしたいなら、<a href="https://px.a8.net/svt/ejp?a8mat=4B3OQW+FMMNG2+2PEO+1HLFVM" rel="nofollow">ココナラ</a>でサービスを出品するのも手だ。ChatGPTやClaudeの使い分けスキルは、コンサルティングやライティングの案件で需要がある。<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B3OQW+FMMNG2+2PEO+1HLFVM" alt="">
 
 おすすめツールの一覧は[こちら](/recommended/)。
+
+---
+
+## 📘 もっと深く学びたい方へ
+
+この記事で紹介した内容を、さらに体系的に・実務レベルで習得できる教材を販売中です。
+
+### [ChatGPT＆Claude AIプロンプト集50選（¥980）](https://aijissenlab.gumroad.com/l/yjcdam)
+
+コピペで即使える実践プロンプト50種を全24ページに凝縮
+
+- ビジネスメール・企画書・分析・コーディング等 8カテゴリ網羅
+- ChatGPT / Claude / Gemini 全対応
+- 変数を埋めるだけで即実務投入
+
+👉 [今すぐ購入する](https://aijissenlab.gumroad.com/l/yjcdam)
+
+### [AIブログ運営 月1万円達成ステップガイド（¥980）](https://aijissenlab.gumroad.com/l/zxrhbg)
+
+ジャンル選定→記事作成→SEO→収益化の全8ステップを完全解説
+
+- AIプロンプト8種・WordPress設定チェックリスト付き
+- ジャンル選定からアフィリエイト・AdSenseまで網羅
+- 初心者でも月1万円までの最短ロードマップ
+
+👉 [今すぐ購入する](https://aijissenlab.gumroad.com/l/zxrhbg)
