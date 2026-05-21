@@ -34,6 +34,43 @@
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
+
+  <!-- 収益リンクのクリック計測（アフィリエイト & 自社商品CTA） -->
+  <script>
+  (function() {
+    function classify(url) {
+      if (!url) return null;
+      // アフィリエイト（A8.net）
+      if (url.indexOf('a8mat=') !== -1 || url.indexOf('px.a8.net') !== -1) {
+        // 広告ID（a8matパラメータ）を抽出して個別計測
+        var m = url.match(/a8mat=([^&]+)/);
+        return { type: 'affiliate_click', label: m ? m[1] : 'unknown', network: 'a8net' };
+      }
+      // 自社商品（Gumroad）
+      if (url.indexOf('gumroad.com') !== -1) {
+        // 商品スラッグ抽出（/l/xxxxx）
+        var s = url.match(/\/l\/([a-zA-Z0-9]+)/);
+        return { type: 'product_click', label: s ? s[1] : 'unknown', network: 'gumroad' };
+      }
+      return null;
+    }
+
+    document.addEventListener('click', function(e) {
+      var a = e.target.closest('a');
+      if (!a || !a.href) return;
+      var info = classify(a.href);
+      if (!info) return;
+      if (typeof gtag === 'function') {
+        gtag('event', info.type, {
+          'event_category': info.network,
+          'event_label': info.label,
+          'link_url': a.href,
+          'page_path': window.location.pathname
+        });
+      }
+    }, true);
+  })();
+  </script>
   {% endif %}
 
   <!-- 構造化データ (JSON-LD) -->
