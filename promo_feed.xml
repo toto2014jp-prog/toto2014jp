@@ -8,8 +8,23 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 22 May 2026 09:09:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:57:54 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに仕事を奪われる」と心配してる人へ
+
+AIは道具です
+
+Excelが登場した時「電卓の仕事が奪われる」と言われましたが、実際はExcelを使える人の価値が上がりました
+
+AIも同じ。使いこなす人が勝ちます
+
+#AI #キャリア #仕事術</description>
+      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
+      <pubDate>Fri, 22 May 2026 17:57:54 +0900</pubDate>
+      <guid isPermaLink="false">4b01c5482154e902583916701973cac6</guid>
+    </item>
     <item>
       <title>Perplexity AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説</title>
       <description>📝 Perplexity AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説
@@ -153,18 +168,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://aijissenlab.gumroad.com/l/tokndw</link>
       <pubDate>Tue, 19 May 2026 07:59:07 +0900</pubDate>
       <guid isPermaLink="false">08dc974ff48a83f5b5d27579b14f2364</guid>
-    </item>
-    <item>
-      <title>ChatGPTとClaude AIの違いを徹底比較【2026年最新版】AI選び方完全ガイド</title>
-      <description>💡 ChatGPTとClaude AIの違いを徹底比較【2026年最新版】AI選び方完全ガイド
-
-まだ読んでない方はぜひ👇
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/11/ChatGPTとClaude-AIの違いを徹底比較2026年最新版AI選び方完全ガイド/
-
-#AI #ChatGPT #Claude</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/11/ChatGPTとClaude-AIの違いを徹底比較2026年最新版AI選び方完全ガイド/</link>
-      <pubDate>Tue, 19 May 2026 07:59:07 +0900</pubDate>
-      <guid isPermaLink="false">4b3b034630cc5c6b902d32e9b6e7b589</guid>
     </item>
   </channel>
 </rss>
