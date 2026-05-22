@@ -8,8 +8,23 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 22 May 2026 17:57:54 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 06:31:04 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「副業したいけど何から始めれば…」
+
+AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
+
+法的確認からツール選びまで、上から順にチェックしていくだけでOK
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #会社員副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Sat, 23 May 2026 06:31:04 +0900</pubDate>
+      <guid isPermaLink="false">74f1dd3065bfc218b92bfb77ec40597e</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -150,24 +165,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://toto2014jp-prog.github.io/toto2014jp</link>
       <pubDate>Tue, 19 May 2026 08:59:15 +0900</pubDate>
       <guid isPermaLink="false">5cfbbe38636b3e7d6a3a784128bd9e3b</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
-
-7フェーズ・100項目超のチェックリストで迷わず進めます
-
-✅ マインドセットから収益化まで網羅
-✅ チェックボックスで進捗管理
-✅ おすすめツール早見表付き
-
-¥980
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Tue, 19 May 2026 07:59:07 +0900</pubDate>
-      <guid isPermaLink="false">08dc974ff48a83f5b5d27579b14f2364</guid>
     </item>
   </channel>
 </rss>
