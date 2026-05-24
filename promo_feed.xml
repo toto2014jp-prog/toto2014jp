@@ -8,8 +8,24 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 May 2026 09:09:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>「ブログを始めたいけどネタがない…」
+
+AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
+
+月1万円達成までのロードマップを1冊にまとめた完全ガイド
+初心者でも迷わず進められます
+
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #AIライティング</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Sun, 24 May 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">6176d060dc3480c59afc9f74b279d8d5</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -146,18 +162,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://toto2014jp-prog.github.io/toto2014jp</link>
       <pubDate>Thu, 21 May 2026 16:13:31 +0900</pubDate>
       <guid isPermaLink="false">79714fff0b827fb6d1fd67816506dbe7</guid>
-    </item>
-    <item>
-      <title>Claude Code AIを使った業務効率化の始め方【AI初心者向け完全ガイド】</title>
-      <description>🔍 Claude Code AIで業務効率化を始めたい初心者向けガイド。プログラミング自動化の基本から実践的な活用法まで、具体的なステップで丁寧に解説します。
-
-詳しくはこちら👇
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/11/Claude-Code-AIを使った業務効率化の始め方AI初心者向け完全ガイド/
-
-#AI #Claude #業務効率化</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/11/Claude-Code-AIを使った業務効率化の始め方AI初心者向け完全ガイド/</link>
-      <pubDate>Tue, 19 May 2026 08:59:15 +0900</pubDate>
-      <guid isPermaLink="false">a971ac261586086e1642c78be6517500</guid>
     </item>
   </channel>
 </rss>
