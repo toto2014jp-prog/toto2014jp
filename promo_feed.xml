@@ -8,8 +8,25 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 May 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
+
+そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
+
+✅ スプレッドシート連携
+✅ メール・議事録・請求書の自動化
+
+¥1,480
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Mon, 25 May 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">c58fde4ab6c8f4ded16c940479907749</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存版】議事録が5分で終わるプロンプト
@@ -144,19 +161,6 @@ AIも同じ。使いこなす人が勝ちます
       <link>https://toto2014jp-prog.github.io/toto2014jp</link>
       <pubDate>Fri, 22 May 2026 17:57:54 +0900</pubDate>
       <guid isPermaLink="false">4b01c5482154e902583916701973cac6</guid>
-    </item>
-    <item>
-      <title>Perplexity AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説</title>
-      <description>📝 Perplexity AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説
-
-Perplexity AI無料版の1日の制限回数と使える機能を具体的に解説。有料版（月$20）への課金が必要な人の条件と、ChatGPTとの用途別使い分け方を紹
-
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/Perplexity-AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説/
-
-#AI #ChatGPT</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/Perplexity-AI無料版の制限と有料版の違い｜ChatGPTとどっちがいいか判断基準も解説/</link>
-      <pubDate>Fri, 22 May 2026 09:09:43 +0900</pubDate>
-      <guid isPermaLink="false">05e879f90619167e612afe0a614dcff4</guid>
     </item>
   </channel>
 </rss>
