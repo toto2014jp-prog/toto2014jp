@@ -8,8 +8,24 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 May 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:10:38 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【コピペOK】返信に困るメールへの神プロンプト
+
+「次のメールに対して、丁寧だが角が立たない返信を3パターン作って。それぞれトーンを変えて」
+
+↓こう変わる
+・断りメールが秒で完成
+・気まずい催促もスマートに
+・英文メールも同じ手順でOK
+
+#ChatGPT #ビジネスメール</description>
+      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
+      <pubDate>Tue, 26 May 2026 09:10:38 +0900</pubDate>
+      <guid isPermaLink="false">64ea2ef14f1618ba8a6d60b81945cdd8</guid>
+    </item>
     <item>
       <title>ChatGPT業務自動化 実践テンプレート集</title>
       <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
@@ -146,21 +162,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://aijissenlab.gumroad.com/l/tokndw</link>
       <pubDate>Sat, 23 May 2026 06:31:04 +0900</pubDate>
       <guid isPermaLink="false">74f1dd3065bfc218b92bfb77ec40597e</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>「AIに仕事を奪われる」と心配してる人へ
-
-AIは道具です
-
-Excelが登場した時「電卓の仕事が奪われる」と言われましたが、実際はExcelを使える人の価値が上がりました
-
-AIも同じ。使いこなす人が勝ちます
-
-#AI #キャリア #仕事術</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Fri, 22 May 2026 17:57:54 +0900</pubDate>
-      <guid isPermaLink="false">4b01c5482154e902583916701973cac6</guid>
     </item>
   </channel>
 </rss>
