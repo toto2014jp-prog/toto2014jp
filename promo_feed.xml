@@ -8,8 +8,22 @@ layout: null
     <link>https://toto2014jp-prog.github.io/toto2014jp</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:10:21 +0900</lastBuildDate>
     <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>AIプロンプト集50選（¥980）
+
+仕事で使えるChatGPT＆Claudeのテンプレート集を販売中です
+全24ページ、8カテゴリ、すぐ使えます
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#ChatGPT #Claude #AI活用術</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Wed, 27 May 2026 09:10:21 +0900</pubDate>
+      <guid isPermaLink="false">c4fd767f2b796bea4c0d0f80c5cc8165</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
@@ -147,18 +161,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://toto2014jp-prog.github.io/toto2014jp</link>
       <pubDate>Sun, 24 May 2026 09:09:56 +0900</pubDate>
       <guid isPermaLink="false">a66d46c041ae5bb98f9f3f674c818ab4</guid>
-    </item>
-    <item>
-      <title>ChatGPT PythonコードをコピペOK！初心者向けプロンプト集と頼み方のコツ</title>
-      <description>💡 ChatGPT PythonコードをコピペOK！初心者向けプロンプト集と頼み方のコツ
-
-まだ読んでない方はぜひ👇
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/ChatGPT-PythonコードをコピペOK初心者向けプロンプト集と頼み方のコツ/
-
-#ChatGPT</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/ChatGPT-PythonコードをコピペOK初心者向けプロンプト集と頼み方のコツ/</link>
-      <pubDate>Sat, 23 May 2026 20:30:00 +0900</pubDate>
-      <guid isPermaLink="false">d41fd8d529b2ba87a450ac8ae34bfd5d</guid>
     </item>
   </channel>
 </rss>
