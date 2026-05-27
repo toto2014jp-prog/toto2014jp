@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT×Googleカレンダー連携｜GASで予定自動登録・リマインド通知を設定する方法</title>
+      <description>📝 ChatGPT×Googleカレンダー連携｜GASで予定自動登録・リマインド通知を設定する方法
+
+ChatGPT APIとGASを使いGoogleカレンダーに予定を自動登録＆リマインド通知する手順を解説。APIキーの安全な管理からエラー対策まで、コピペで動く
+
+https://ai-jissen-lab.com/2026/05/23/ChatGPTGoogleカレンダー連携GASで予定自動登録リマインド通知を設定する方法/
+
+#AI #ChatGPT #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/23/ChatGPTGoogleカレンダー連携GASで予定自動登録リマインド通知を設定する方法/</link>
+      <pubDate>Wed, 27 May 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">8fdbeaee78395cdd10fab36744bb8be4</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIツール、結局どれ使えばいいの？という人へ
