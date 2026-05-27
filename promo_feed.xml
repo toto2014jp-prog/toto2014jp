@@ -5,11 +5,11 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI実践ラボ - お知らせ</title>
-    <link>https://toto2014jp-prog.github.io/toto2014jp</link>
+    <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 09:10:21 +0900</lastBuildDate>
-    <atom:link href="https://toto2014jp-prog.github.io/toto2014jp/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 12:09:50 +0900</lastBuildDate>
+    <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT＆Claude AIプロンプト集50選</title>
       <description>AIプロンプト集50選（¥980）
@@ -23,50 +23,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
       <pubDate>Wed, 27 May 2026 09:10:21 +0900</pubDate>
       <guid isPermaLink="false">c4fd767f2b796bea4c0d0f80c5cc8165</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
-
-👉「この回答を自己評価して、改善版を出して」
-
-たったこれだけ。AIが自分でダメ出しして書き直してくれます
-
-知ってるだけで差がつくテクニックです
-
-#ChatGPT活用 #プロンプト</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Tue, 26 May 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">899a3dd659627916efd1f782309f7e69</guid>
-    </item>
-    <item>
-      <title>AI Excel自動化｜初心者でも今日できる5つのテクニックと時短効果</title>
-      <description>📝 AI Excel自動化｜初心者でも今日できる5つのテクニックと時短効果
-
-AIでExcel作業を自動化する5つの方法を初心者向けに解説。プログラミング不要でVBA生成・Copilot活用・Power Automate設定まで手順つきで
-
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/AI-Excel自動化｜初心者でも今日できる5つのテクニックと時短効果/
-
-#AI #Excel自動化 #業務自動化</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/22/AI-Excel自動化｜初心者でも今日できる5つのテクニックと時短効果/</link>
-      <pubDate>Tue, 26 May 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">e34c8013d93c282e7071ccf4ec911881</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【コピペOK】返信に困るメールへの神プロンプト
-
-「次のメールに対して、丁寧だが角が立たない返信を3パターン作って。それぞれトーンを変えて」
-
-↓こう変わる
-・断りメールが秒で完成
-・気まずい催促もスマートに
-・英文メールも同じ手順でOK
-
-#ChatGPT #ビジネスメール</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Tue, 26 May 2026 09:10:38 +0900</pubDate>
-      <guid isPermaLink="false">64ea2ef14f1618ba8a6d60b81945cdd8</guid>
     </item>
     <item>
       <title>ChatGPT業務自動化 実践テンプレート集</title>
@@ -86,50 +42,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <guid isPermaLink="false">c58fde4ab6c8f4ded16c940479907749</guid>
     </item>
     <item>
-      <title>AI活用Tips</title>
-      <description>【保存版】議事録が5分で終わるプロンプト
-
-これをコピペするだけ👇
-
-「以下の会議メモを①決定事項②ToDo（担当者・期限）③未解決の論点 に整理して。箇条書きで簡潔に」
-
-あとは会議メモを貼るだけ。手書きの殴り書きでもOKです
-
-保存して次の会議で使ってみてください
-
-#ChatGPT #業務効率化</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Mon, 25 May 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">e1431f346c0cf346e037affade93ccb8</guid>
-    </item>
-    <item>
-      <title>AIツール料金を比較して最適化！月額コスト節約プラン選び術【2026年版】</title>
-      <description>🔍 ChatGPT・Claude・Geminiの料金を比較。有料プランの必要性からAPI活用の損益分岐点まで、月5,000円超のAIサブスクを賢く削減する実務的な方法を解説。
-
-詳しくはこちら👇
-https://toto2014jp-prog.github.io/toto2014jp/2026/05/12/AIツール料金を比較して最適化月額コスト節約プラン選び術2026年版/
-
-#AI #AIツール比較 #ChatGPT</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp/2026/05/12/AIツール料金を比較して最適化月額コスト節約プラン選び術2026年版/</link>
-      <pubDate>Mon, 25 May 2026 09:09:52 +0900</pubDate>
-      <guid isPermaLink="false">8738b5e41a22bafb8e4a72654e4b4184</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Excelの作業、まだ手動でやってますか？
-
-ChatGPTに「このデータを○○形式に変換して」と頼むだけで、マクロを書いてくれます
-
-・VLOOKUP地獄から解放
-・ピボットテーブルも一瞬
-・グラフ作成まで自動
-
-#Excel #ChatGPT #業務効率化</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Sun, 24 May 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">9d45d93e87f1753526a83485452ce871</guid>
-    </item>
-    <item>
       <title>AIブログ運営 月1万円達成ステップガイド</title>
       <description>「ブログを始めたいけどネタがない…」
 
@@ -144,23 +56,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
       <pubDate>Sun, 24 May 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">6176d060dc3480c59afc9f74b279d8d5</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>2026年、AIで稼いでる人の共通点
-
-① 毎日AIを触っている
-② 1つの分野に特化している
-③ アウトプットし続けている
-④ 失敗を恐れない
-⑤ 情報収集を怠らない
-
-センスじゃなく「習慣」の差です
-
-#AI副業 #副業 #マインドセット</description>
-      <link>https://toto2014jp-prog.github.io/toto2014jp</link>
-      <pubDate>Sun, 24 May 2026 09:09:56 +0900</pubDate>
-      <guid isPermaLink="false">a66d46c041ae5bb98f9f3f674c818ab4</guid>
     </item>
   </channel>
 </rss>
