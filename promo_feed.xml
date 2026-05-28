@@ -8,8 +8,27 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:10:03 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【知らないと損】ChatGPTの精度が上がる5つの型
+
+① 役割を与える
+② 前提条件を渡す
+③ 出力形式を指定
+④ 例を1つ見せる
+⑤ 段階的に聞く
+
+この5つを意識するだけで「使えないAI」が「優秀な部下」に変わります
+
+保存推奨📌
+
+#プロンプト #ChatGPT</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 28 May 2026 09:10:03 +0900</pubDate>
+      <guid isPermaLink="false">e40148afe819e4d4197b8b80869af3d2</guid>
+    </item>
     <item>
       <title>ChatGPT×Googleカレンダー連携｜GASで予定自動登録・リマインド通知を設定する方法</title>
       <description>📝 ChatGPT×Googleカレンダー連携｜GASで予定自動登録・リマインド通知を設定する方法
