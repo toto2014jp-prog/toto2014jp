@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>請求書作成、まだ手入力ですか？
+
+スプレッドシート×ChatGPT APIを連携すれば
+・項目入力→自動で文面生成
+・番号も自動採番
+・インボイス対応も漏れなし
+
+月末の憂鬱な作業が10分で終わります
+
+#業務自動化 #ChatGPT</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 28 May 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">16a4a96de084de5c8572fea57e255b83</guid>
+    </item>
     <item>
       <title>AI副業スタートアップ完全チェックリスト</title>
       <description>AI副業で月5万円を目指すなら
