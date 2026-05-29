@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 09:10:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに聞いても浅い答えしか返ってこない」
+
+原因は9割これ👇
+
+“前提を渡していない”
+
+NG:「マーケ施策を教えて」
+OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ、根拠付きで」
+
+具体性が9割です
+
+#AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Fri, 29 May 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">c56feaf7b6927452e61017cd1f4be415</guid>
+    </item>
     <item>
       <title>ChatGPT vs Claude 比較｜用途別おすすめと選び方</title>
       <description>📝 ChatGPT vs Claude 比較｜用途別おすすめと選び方
