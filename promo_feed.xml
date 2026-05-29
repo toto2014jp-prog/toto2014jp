@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIでブログ記事を書く時代
+
+でも「AIに丸投げ」だとGoogleに評価されません
+
+人間の経験×AIの効率＝最強のブログ運営
+
+そのやり方を8ステップで解説👇
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ運営 #SEO #AI活用</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Fri, 29 May 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">a71c00d223b9f99b947b10f8fb4b7fe7</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -157,22 +173,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://aijissenlab.gumroad.com/l/irvscs</link>
       <pubDate>Mon, 25 May 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">c58fde4ab6c8f4ded16c940479907749</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>「ブログを始めたいけどネタがない…」
-
-AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
-
-月1万円達成までのロードマップを1冊にまとめた完全ガイド
-初心者でも迷わず進められます
-
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ初心者 #AIライティング</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Sun, 24 May 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">6176d060dc3480c59afc9f74b279d8d5</guid>
     </item>
   </channel>
 </rss>
