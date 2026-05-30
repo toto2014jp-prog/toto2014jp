@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 09:10:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude API Python 使い方入門｜キー設定・コードサンプル・エラー解決まで</title>
+      <description>🔍 Claude APIをPythonで使う方法を初心者向けに解説。APIキーの安全な設定から動くコードサンプル、よくあるエラーの解決策まで2025年最新の実装パターンで紹介。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/24/Claude-API-Python-使い方入門キー設定コードサンプルエラー解決まで/
+
+#Claude</description>
+      <link>https://ai-jissen-lab.com/2026/05/24/Claude-API-Python-使い方入門キー設定コードサンプルエラー解決まで/</link>
+      <pubDate>Sat, 30 May 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">0a04a5d0b6bdb85b81b667f8a85711f8</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>毎日AIを触って分かった、伸びる人の使い方
@@ -162,20 +174,6 @@ https://ai-jissen-lab.com/2026/05/23/ChatGPTGoogleカレンダー連携GASで予
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 27 May 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">d83ae26225f029e77b3d6a861b5eb42d</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>AIプロンプト集50選（¥980）
-
-仕事で使えるChatGPT＆Claudeのテンプレート集を販売中です
-全24ページ、8カテゴリ、すぐ使えます
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#ChatGPT #Claude #AI活用術</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Wed, 27 May 2026 09:10:21 +0900</pubDate>
-      <guid isPermaLink="false">c4fd767f2b796bea4c0d0f80c5cc8165</guid>
     </item>
   </channel>
 </rss>
