@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存推奨】ChatGPTを使う時の5つのコツ
+
+① 役割を与える（「あなたはプロの編集者です」）
+② 具体的な条件を指定する
+③ 出力形式を決める
+④ 段階的に聞く
+⑤ 「なぜ？」を追加する
+
+これだけで回答の質が劇的に変わります
+
+#ChatGPT #AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 30 May 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">8ab028ca357631608fce9f22b02e36b0</guid>
+    </item>
     <item>
       <title>Claude API Python 使い方入門｜キー設定・コードサンプル・エラー解決まで</title>
       <description>🔍 Claude APIをPythonで使う方法を初心者向けに解説。APIキーの安全な設定から動くコードサンプル、よくあるエラーの解決策まで2025年最新の実装パターンで紹介。
@@ -156,24 +173,6 @@ https://ai-jissen-lab.com/2026/05/23/ChatGPTGoogleカレンダー連携GASで予
       <link>https://ai-jissen-lab.com/2026/05/23/ChatGPTGoogleカレンダー連携GASで予定自動登録リマインド通知を設定する方法/</link>
       <pubDate>Wed, 27 May 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">8fdbeaee78395cdd10fab36744bb8be4</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>AIツール、結局どれ使えばいいの？という人へ
-
-用途別の正解👇
-・文章/要約 → Claude
-・検索/最新情報 → Perplexity
-・画像 → ChatGPT(DALL-E)
-・コード → Claude
-・資料作成 → Gamma
-
-全部無料枠あり。まず触るのが一番です
-
-#AI活用 #AIツール</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Wed, 27 May 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">d83ae26225f029e77b3d6a861b5eb42d</guid>
     </item>
   </channel>
 </rss>
