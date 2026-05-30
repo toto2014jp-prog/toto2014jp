@@ -8,8 +8,28 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:10:07 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>毎日AIを触って分かった、伸びる人の使い方
+
+❌ 1回の質問で完璧を求める
+⭕ 対話で一緒に育てる
+
+❌ 丸投げする
+⭕ 前提と条件を渡す
+
+❌ 出力をそのまま使う
+⭕ 「もっと良くして」を繰り返す
+
+AIは“壁打ち相手”として使うと化けます
+
+#AI活用 #仕事術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 30 May 2026 09:10:07 +0900</pubDate>
+      <guid isPermaLink="false">ab058265b1b73fd74cfcab2119f311fc</guid>
+    </item>
     <item>
       <title>AIブログ運営 月1万円達成ステップガイド</title>
       <description>AIでブログ記事を書く時代
@@ -156,23 +176,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
       <pubDate>Wed, 27 May 2026 09:10:21 +0900</pubDate>
       <guid isPermaLink="false">c4fd767f2b796bea4c0d0f80c5cc8165</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
-
-そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
-
-✅ スプレッドシート連携
-✅ メール・議事録・請求書の自動化
-
-¥1,480
-https://aijissenlab.gumroad.com/l/irvscs
-
-#ChatGPT #業務効率化</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Mon, 25 May 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">c58fde4ab6c8f4ded16c940479907749</guid>
     </item>
   </channel>
 </rss>
