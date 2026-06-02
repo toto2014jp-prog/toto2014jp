@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:10:26 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windsurf AI 使い方入門｜Cursorとの違い・無料プランの限界を検証</title>
+      <description>📝 Windsurf AI 使い方入門｜Cursorとの違い・無料プランの限界を検証
+
+WindsurfのCascadeエンジンの使い方・無料プランで月に何ができるか・CursorとWindsurfの向き不向きをユースケース別に比較。OpenAI買
+
+https://ai-jissen-lab.com/2026/05/29/Windsurf-AI-使い方入門Cursorとの違い無料プランの限界を検証/
+
+#AI</description>
+      <link>https://ai-jissen-lab.com/2026/05/29/Windsurf-AI-使い方入門Cursorとの違い無料プランの限界を検証/</link>
+      <pubDate>Tue, 02 Jun 2026 09:10:26 +0900</pubDate>
+      <guid isPermaLink="false">81243322a9a2f212c57f3e7470c18665</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】無料で使えるAIツール5選
@@ -151,22 +164,6 @@ AIは“壁打ち相手”として使うと化けます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 30 May 2026 09:10:07 +0900</pubDate>
       <guid isPermaLink="false">ab058265b1b73fd74cfcab2119f311fc</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>AIでブログ記事を書く時代
-
-でも「AIに丸投げ」だとGoogleに評価されません
-
-人間の経験×AIの効率＝最強のブログ運営
-
-そのやり方を8ステップで解説👇
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ運営 #SEO #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Fri, 29 May 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">a71c00d223b9f99b947b10f8fb4b7fe7</guid>
     </item>
   </channel>
 </rss>
