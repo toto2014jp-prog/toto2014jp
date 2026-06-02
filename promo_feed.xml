@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「会社にバレずにAI副業を始めたい」
+
+法的確認・確定申告の注意点もカバーした副業チェックリスト
+
+上から順にチェックするだけで安心してスタートできます
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#会社員副業 #AI副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Tue, 02 Jun 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">dd9007a10912a64cc35731e664362c88</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -147,18 +162,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 30 May 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">8ab028ca357631608fce9f22b02e36b0</guid>
-    </item>
-    <item>
-      <title>Claude API Python 使い方入門｜キー設定・コードサンプル・エラー解決まで</title>
-      <description>🔍 Claude APIをPythonで使う方法を初心者向けに解説。APIキーの安全な設定から動くコードサンプル、よくあるエラーの解決策まで2025年最新の実装パターンで紹介。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/24/Claude-API-Python-使い方入門キー設定コードサンプルエラー解決まで/
-
-#Claude</description>
-      <link>https://ai-jissen-lab.com/2026/05/24/Claude-API-Python-使い方入門キー設定コードサンプルエラー解決まで/</link>
-      <pubDate>Sat, 30 May 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">0a04a5d0b6bdb85b81b667f8a85711f8</guid>
     </item>
   </channel>
 </rss>
