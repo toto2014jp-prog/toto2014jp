@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:06:00 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
+
+① ジャンル選定
+② WordPress初期設定
+③ AI記事作成
+④ SEO対策
+⑤ 収益化設定
+
+全部まとめた1冊です📖
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Thu, 04 Jun 2026 09:06:00 +0900</pubDate>
+      <guid isPermaLink="false">e715b5a29da61c55cc142c75645ab8db</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -147,19 +165,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 01 Jun 2026 09:10:16 +0900</pubDate>
       <guid isPermaLink="false">b5dd747b83b1565275d9a104b351284e</guid>
-    </item>
-    <item>
-      <title>Claude AI無料で使う方法と制限の実態｜有料課金すべき人の判断基準</title>
-      <description>📝 Claude AI無料で使う方法と制限の実態｜有料課金すべき人の判断基準
-
-Claude AIの無料プランで実際どこまでできるか、制限の実態と有料Pro（月$20）に課金すべき人の判断基準をチェックリスト付きで解説。無料で賢く使うコツも
-
-https://ai-jissen-lab.com/2026/05/21/Claude-AI無料で使う方法と制限の実態有料課金すべき人の判断基準/
-
-#AI #Claude</description>
-      <link>https://ai-jissen-lab.com/2026/05/21/Claude-AI無料で使う方法と制限の実態有料課金すべき人の判断基準/</link>
-      <pubDate>Sun, 31 May 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">90e336098d70d6c83aaf038ddf8acee1</guid>
     </item>
   </channel>
 </rss>
