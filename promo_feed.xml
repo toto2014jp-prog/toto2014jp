@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:06:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>Excelの作業、まだ手動でやってますか？
+
+ChatGPTに「このデータを○○形式に変換して」と頼むだけで、マクロを書いてくれます
+
+・VLOOKUP地獄から解放
+・ピボットテーブルも一瞬
+・グラフ作成まで自動
+
+#Excel #ChatGPT #業務効率化</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 04 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">53ff8ffcd5cb410d10ce96dec1d57700</guid>
+    </item>
     <item>
       <title>AIブログ運営 月1万円達成ステップガイド</title>
       <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
@@ -148,23 +163,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
       <pubDate>Mon, 01 Jun 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">741a916cac4580281c093b58cb8dc4de</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>AIで業務時間を50%削減した方法
-
-① メール下書き → ChatGPT
-② 議事録作成 → Claude
-③ データ集計 → ChatGPT + Python
-④ 資料作成 → Gamma AI
-⑤ スケジュール管理 → Notion AI
-
-全部合わせて月額5,000円以下です
-
-#業務効率化 #AI活用 #仕事術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Mon, 01 Jun 2026 09:10:16 +0900</pubDate>
-      <guid isPermaLink="false">b5dd747b83b1565275d9a104b351284e</guid>
     </item>
   </channel>
 </rss>
