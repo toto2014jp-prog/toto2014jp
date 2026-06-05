@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>ChatGPT業務自動化 実践テンプレート集（¥1,480）
+
+プロンプト集の一歩先へ。
+「動くコード」で定型業務を自動化する実装ガイドです
+
+・API基礎セットアップ
+・スプレッドシート連携
+・ワークフロー実例3選
+
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT活用 #自動化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Fri, 05 Jun 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">e3309ca79985023ebe3c962334236b44</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存版】議事録が5分で終わるプロンプト
@@ -148,19 +166,6 @@ AIも同じ。使いこなす人が勝ちます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 02 Jun 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">da10c83cae8e2e2eacaa8a1f5758f3bb</guid>
-    </item>
-    <item>
-      <title>Windsurf AI 使い方入門｜Cursorとの違い・無料プランの限界を検証</title>
-      <description>📝 Windsurf AI 使い方入門｜Cursorとの違い・無料プランの限界を検証
-
-WindsurfのCascadeエンジンの使い方・無料プランで月に何ができるか・CursorとWindsurfの向き不向きをユースケース別に比較。OpenAI買
-
-https://ai-jissen-lab.com/2026/05/29/Windsurf-AI-使い方入門Cursorとの違い無料プランの限界を検証/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/05/29/Windsurf-AI-使い方入門Cursorとの違い無料プランの限界を検証/</link>
-      <pubDate>Tue, 02 Jun 2026 09:10:26 +0900</pubDate>
-      <guid isPermaLink="false">81243322a9a2f212c57f3e7470c18665</guid>
     </item>
   </channel>
 </rss>
