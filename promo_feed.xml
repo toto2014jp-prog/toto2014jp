@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>「プロンプトの書き方がわからない」
+→ それ、テンプレートで解決します
+
+📋 50のプロンプトをコピペするだけ
+📋 ChatGPT / Claude / Gemini全対応
+📋 ¥980で即ダウンロード
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI初心者 #プロンプト</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Sun, 07 Jun 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">e0fe317ea575a15597e4cddc6df12ec5</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
@@ -150,19 +166,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 03 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">7dae4e9d79c542808f0f3da90de0c45f</guid>
-    </item>
-    <item>
-      <title>Notion AIとChatGPT・Perplexityを併用する方法｜リサーチ→まとめ→DB保存を全自動化する手順</title>
-      <description>📝 Notion AIとChatGPT・Perplexityを併用する方法｜リサーチ→まとめ→DB保存を全自動化する手順
-
-
-
-https://ai-jissen-lab.com/2026/05/30/Notion-AIとChatGPTPerplexityを併用する方法リサーチまとめDB保存を全自動化する手順/
-
-#AI #ChatGPT #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/30/Notion-AIとChatGPTPerplexityを併用する方法リサーチまとめDB保存を全自動化する手順/</link>
-      <pubDate>Wed, 03 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">d6a2b9781fb502a4120de9d24010b134</guid>
     </item>
   </channel>
 </rss>
