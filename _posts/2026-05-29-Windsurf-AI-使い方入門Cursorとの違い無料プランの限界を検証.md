@@ -20,7 +20,7 @@ tags:
 
 
 
-> 💡 **関連教材**: [ChatGPT＆Claude AIプロンプト集50選（¥980）](https://aijissenlab.gumroad.com/l/yjcdam) — コピペで即使える実践プロンプト50種を全24ページに凝縮
+> 💡 **関連教材**: [ChatGPT業務自動化 実践テンプレート集（¥1,480）](https://aijissenlab.gumroad.com/l/irvscs) — API・スプレッドシート・メール・議事録・請求書をコピペで自動化する実装特化型テンプレート集（全22ページ）
 
 ## WindsurfとはなにかCascadeエンジンと他ツールとの根本的な違い
 
@@ -141,17 +141,19 @@ Proプランへの移行はそれからでも遅くない。
 
 ---
 
-## 関連記事
-
-- [Cursor AI料金は高い？月額$20とClaude API・Copilot・Windsurfを比較](/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/)
-- [AIツールおすすめ2026年版｜用途別に選ぶ最新10選と活用法](/2026/05/11/2026年に注目すべきAIツール10選業務効率化に役立つAI最新まとめ/)
-- [ChatGPT vs Claude 比較｜用途別おすすめと選び方](/2026/05/11/ChatGPTとClaude-AIの違いを徹底比較-2026年最新版-AI選び方完全ガイド/)
-
----
-
 ## 📘 もっと深く学びたい方へ
 
 この記事で紹介した内容を、さらに体系的に・実務レベルで習得できる教材を販売中です。
+
+### [ChatGPT業務自動化 実践テンプレート集（¥1,480）](https://aijissenlab.gumroad.com/l/irvscs)
+
+API・スプレッドシート・メール・議事録・請求書をコピペで自動化する実装特化型テンプレート集（全22ページ）
+
+- 動くGASコード・API設定手順・プロンプトをワンセット収録
+- スプレッドシート連携／メール／議事録／請求書を実務レベルで自動化
+- コピペで即動く実装コード（Python / GAS）付き
+
+👉 [今すぐ購入する](https://aijissenlab.gumroad.com/l/irvscs)
 
 ### [ChatGPT＆Claude AIプロンプト集50選（¥980）](https://aijissenlab.gumroad.com/l/yjcdam)
 
@@ -163,15 +165,13 @@ Proプランへの移行はそれからでも遅くない。
 
 👉 [今すぐ購入する](https://aijissenlab.gumroad.com/l/yjcdam)
 
-### [ChatGPT業務自動化 実践テンプレート集（¥1,480）](https://aijissenlab.gumroad.com/l/irvscs)
+---
 
-API・スプレッドシート・メール・議事録・請求書をコピペで自動化する実装特化型テンプレート集（全22ページ）
+## 関連記事
 
-- 動くGASコード・API設定手順・プロンプトをワンセット収録
-- スプレッドシート連携／メール／議事録／請求書を実務レベルで自動化
-- コピペで即動く実装コード（Python / GAS）付き
-
-👉 [今すぐ購入する](https://aijissenlab.gumroad.com/l/irvscs)
+- [Cursor AI料金は高い？月額$20とClaude API・Copilot・Windsurfを比較](/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/)
+- [AIツールおすすめ2026年版｜用途別に選ぶ最新10選と活用法](/2026/05/11/2026年に注目すべきAIツール10選業務効率化に役立つAI最新まとめ/)
+- [ChatGPT vs Claude 比較｜用途別おすすめと選び方](/2026/05/11/ChatGPTとClaude-AIの違いを徹底比較-2026年最新版-AI選び方完全ガイド/)
 
 ---
 
