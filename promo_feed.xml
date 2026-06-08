@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>AIツール、結局どれ使えばいいの？という人へ
+
+用途別の正解👇
+・文章/要約 → Claude
+・検索/最新情報 → Perplexity
+・画像 → ChatGPT(DALL-E)
+・コード → Claude
+・資料作成 → Gamma
+
+全部無料枠あり。まず触るのが一番です
+
+#AI活用 #AIツール</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 08 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">92853b766a4d40c95689d90536eb5b3a</guid>
+    </item>
     <item>
       <title>ChatGPT＆Claude AIプロンプト集50選</title>
       <description>「プロンプトの書き方がわからない」
@@ -149,23 +167,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
       <pubDate>Thu, 04 Jun 2026 09:06:00 +0900</pubDate>
       <guid isPermaLink="false">e715b5a29da61c55cc142c75645ab8db</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>2026年、AIで稼いでる人の共通点
-
-① 毎日AIを触っている
-② 1つの分野に特化している
-③ アウトプットし続けている
-④ 失敗を恐れない
-⑤ 情報収集を怠らない
-
-センスじゃなく「習慣」の差です
-
-#AI副業 #副業 #マインドセット</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Wed, 03 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">7dae4e9d79c542808f0f3da90de0c45f</guid>
     </item>
   </channel>
 </rss>
