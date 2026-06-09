@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
+
+7フェーズ・100項目超のチェックリストで迷わず進めます
+
+✅ マインドセットから収益化まで網羅
+✅ チェックボックスで進捗管理
+✅ おすすめツール早見表付き
+
+¥980
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Tue, 09 Jun 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">7a6387404c5b6b4761bdeaaca5211294</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】ChatGPTの精度が上がる5つの型
@@ -152,19 +170,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 05 Jun 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">a9e24c6083b086bff240a75378f53b6c</guid>
-    </item>
-    <item>
-      <title>Claude API×Notion連携やり方｜AIライティング結果をDBに自動保存する手順</title>
-      <description>📝 Claude API×Notion連携やり方｜AIライティング結果をDBに自動保存する手順
-
-Claude APIで生成したライティング結果をNotionデータベースに自動保存する手順を解説。コード直書き・MCP・ノーコードの3アプローチを比較し、自分に
-
-https://ai-jissen-lab.com/2026/05/31/Claude-APINotion連携やり方AIライティング結果をDBに自動保存する手順/
-
-#Claude #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/31/Claude-APINotion連携やり方AIライティング結果をDBに自動保存する手順/</link>
-      <pubDate>Thu, 04 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">199a42afe16bbf994859859807e2c814</guid>
     </item>
   </channel>
 </rss>
