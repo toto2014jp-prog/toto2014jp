@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT×Googleカレンダー連携｜GASで予定自動登録・リマインド通知を設定する方法"
+title: "Google Apps Script活用例｜Googleカレンダーにリマインド通知を自動設定する方法"
 date: 2026-05-23 09:10:09 +0900
 description: "ChatGPT APIとGASを使いGoogleカレンダーに予定を自動登録＆リマインド通知する手順を解説。APIキーの安全な管理からエラー対策まで、コピペで動くコード付きで紹介。"
 tags:
