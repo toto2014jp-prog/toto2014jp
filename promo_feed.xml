@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:13:34 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIを使ってブログで月1万円稼ぎたい方へ
+
+ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
+
+✅ すぐ使えるAIプロンプト8種収録
+✅ WordPress設定チェックリスト付き
+✅ 収益モデル例も掲載
+
+¥980で始められます
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ #AI活用 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Fri, 12 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">a9948a937b8f082301d623327617f3a1</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -153,18 +171,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sun, 07 Jun 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">1ebed41f6f398818cb81558db73219e9</guid>
-    </item>
-    <item>
-      <title>AIツールおすすめ2026年版｜用途別に選ぶ最新10選と活用法</title>
-      <description>🔍 2026年注目のAIツール10選を用途・職種別に整理。業務効率化に使えるAI最新情報を、コスト・日本語対応・導入ステップとあわせて解説。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/22/AIツールおすすめ2026年版用途別に選ぶ最新10選と活用法/
-
-#AI #業務効率化 #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/AIツールおすすめ2026年版用途別に選ぶ最新10選と活用法/</link>
-      <pubDate>Sat, 06 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">1fbb9b858a2172a5dbd589d0fe86df32</guid>
     </item>
   </channel>
 </rss>
