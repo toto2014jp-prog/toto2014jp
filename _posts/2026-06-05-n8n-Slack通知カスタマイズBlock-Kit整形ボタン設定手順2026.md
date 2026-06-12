@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026"
+title: "【2026年版】n8nでSlack通知をカスタマイズする方法｜Block Kit整形・ボタン設定手順"
 date: 2026-06-05 09:06:21 +0900
 description: "n8nでSlack通知をBlock Kit整形＋ボタン付きインタラクティブ通知にする手順を解説。JSONの正しい渡し方・Webhook連携・Signing Secret設定まで2026年版で実例付き。"
 tags:
