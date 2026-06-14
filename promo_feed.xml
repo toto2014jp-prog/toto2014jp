@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
+
+私の使い分け👇
+・長文の要約・分析 → Claude
+・アイデア出し・雑談 → ChatGPT
+・画像生成 → ChatGPT
+・コーディング → Claude
+
+皆さんはどう使い分けてますか？
+
+#AI #ChatGPT #Claude</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 14 Jun 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">7d5753e8f6bd324539709352b7176533</guid>
+    </item>
     <item>
       <title>ChatGPT業務自動化 実践テンプレート集</title>
       <description>ChatGPT APIをスプレッドシートから呼ぶ方法、知ってますか？
@@ -155,25 +172,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://aijissenlab.gumroad.com/l/tokndw</link>
       <pubDate>Tue, 09 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">7a6387404c5b6b4761bdeaaca5211294</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【知らないと損】ChatGPTの精度が上がる5つの型
-
-① 役割を与える
-② 前提条件を渡す
-③ 出力形式を指定
-④ 例を1つ見せる
-⑤ 段階的に聞く
-
-この5つを意識するだけで「使えないAI」が「優秀な部下」に変わります
-
-保存推奨📌
-
-#プロンプト #ChatGPT</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Tue, 09 Jun 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">d196600a06fe07c8d9b37fe0ffa59588</guid>
     </item>
   </channel>
 </rss>
