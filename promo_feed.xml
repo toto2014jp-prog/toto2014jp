@@ -8,8 +8,22 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>ChatGPT APIをスプレッドシートから呼ぶ方法、知ってますか？
+
+=GPT(プロンプト) というカスタム関数を作れば、商品説明の一括生成も翻訳も一瞬です
+
+そのGASコード全文を教材に収録しました👇
+https://aijissenlab.gumroad.com/l/irvscs
+
+#GoogleAppsScript #ChatGPT</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Sun, 14 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">6493d72b91e1d14bf0ace2afecb3e9be</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存推奨】ChatGPTを使う時の5つのコツ
@@ -160,18 +174,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 09 Jun 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">d196600a06fe07c8d9b37fe0ffa59588</guid>
-    </item>
-    <item>
-      <title>Cursor Rules設定やり方｜プロジェクト固定でAI出力のブレをなくす手順</title>
-      <description>💡 Cursor Rules設定やり方｜プロジェクト固定でAI出力のブレをなくす手順
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/06/02/Cursor-Rules設定やり方プロジェクト固定でAI出力のブレをなくす手順/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/06/02/Cursor-Rules設定やり方プロジェクト固定でAI出力のブレをなくす手順/</link>
-      <pubDate>Mon, 08 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">a844f698fc5db3bda37e06497bb7e9cc</guid>
     </item>
   </channel>
 </rss>
