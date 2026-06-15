@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Claude API×Notion連携やり方｜AIライティング結果をDBに自動保存する手順"
+title: "Claude API×Notion連携｜AI生成文をDBに自動保存する3つの方法"
 date: 2026-05-31 09:06:04 +0900
-description: "Claude APIで生成したライティング結果をNotionデータベースに自動保存する手順を解説。コード直書き・MCP・ノーコードの3アプローチを比較し、自分に合う方法をすぐ選べます。"
+description: "Claude APIで書いた文章をNotionデータベースへ自動保存する手順を解説。コード直書き・MCP・ノーコードの3つの方法をコスト・難易度で比較し、自分のスキルに合うやり方が10分で選べます。コピペで動くサンプル付き。"
 tags:
   - Claude API Notion 連携 やり方
   - Claude API Notion データベース 自動保存 方法
