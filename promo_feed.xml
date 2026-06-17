@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor AI料金は高い？月額$20とClaude API・Copilot・Windsurfを比較</title>
+      <description>🔍 Cursor AI月額$20は高いか安いか。Claude API直接利用・GitHub Copilot・Windsurfと料金・機能を比較。用途別の損益分岐点と最適プランの選び方を
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/
+
+#AI #AIツール比較 #Claude</description>
+      <link>https://ai-jissen-lab.com/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/</link>
+      <pubDate>Wed, 17 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">009bf53f93e203a61c70bcba49549952</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】無料で使えるAIツール5選
@@ -154,24 +166,6 @@ AIは“壁打ち相手”として使うと化けます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 12 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">7926f2821f5792ecdfce7f2ae3ec0483</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>AIを使ってブログで月1万円稼ぎたい方へ
-
-ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
-
-✅ すぐ使えるAIプロンプト8種収録
-✅ WordPress設定チェックリスト付き
-✅ 収益モデル例も掲載
-
-¥980で始められます
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ #AI活用 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Fri, 12 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">a9948a937b8f082301d623327617f3a1</guid>
     </item>
   </channel>
 </rss>
