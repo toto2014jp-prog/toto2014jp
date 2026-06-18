@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「副業したいけど何から始めれば…」
+
+AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
+
+法的確認からツール選びまで、上から順にチェックしていくだけでOK
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #会社員副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Thu, 18 Jun 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">cadca41271e9eb234ba28f83169cf2cc</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -148,19 +163,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 13 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">2f333a3e5657b0122fd656fd3bd9c399</guid>
-    </item>
-    <item>
-      <title>Make×ChatGPT連携のやり方｜Zapierより安い自動化設定手順</title>
-      <description>📝 Make×ChatGPT連携のやり方｜Zapierより安い自動化設定手順
-
-MakeとChatGPTをOpenAI APIで連携する設定手順を解説。Zapierとのコスト比較・公式モジュールの使い方・実務シナリオ3選まで、月$10以上節
-
-https://ai-jissen-lab.com/2026/05/24/MakeChatGPT連携のやり方Zapierより安い自動化設定手順/
-
-#AI #ChatGPT #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/24/MakeChatGPT連携のやり方Zapierより安い自動化設定手順/</link>
-      <pubDate>Sat, 13 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">5d92ad62f41416eaf608ea17e5565d37</guid>
     </item>
   </channel>
 </rss>
