@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:26 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTの「カスタム指示」使ってますか？
+
+設定するだけで毎回の回答精度が爆上がりします
+
+例:
+「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
+
+たった1分の設定で効果絶大💡
+
+#ChatGPT #AI活用術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Fri, 19 Jun 2026 14:10:26 +0900</pubDate>
+      <guid isPermaLink="false">7a36ba22901e67fe9441b357889e2915</guid>
+    </item>
     <item>
       <title>AI副業スタートアップ完全チェックリスト</title>
       <description>「副業したいけど何から始めれば…」
@@ -146,23 +162,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://aijissenlab.gumroad.com/l/irvscs</link>
       <pubDate>Sun, 14 Jun 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">6493d72b91e1d14bf0ace2afecb3e9be</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【保存推奨】ChatGPTを使う時の5つのコツ
-
-① 役割を与える（「あなたはプロの編集者です」）
-② 具体的な条件を指定する
-③ 出力形式を決める
-④ 段階的に聞く
-⑤ 「なぜ？」を追加する
-
-これだけで回答の質が劇的に変わります
-
-#ChatGPT #AI活用 #プロンプト</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 13 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">2f333a3e5657b0122fd656fd3bd9c399</guid>
     </item>
   </channel>
 </rss>
