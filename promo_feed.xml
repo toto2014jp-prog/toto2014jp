@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:39:38 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:13:57 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>「ブログを始めたいけどネタがない…」
+
+AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
+
+月1万円達成までのロードマップを1冊にまとめた完全ガイド
+初心者でも迷わず進められます
+
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #AIライティング</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Tue, 23 Jun 2026 14:13:57 +0900</pubDate>
+      <guid isPermaLink="false">c1f7b986ae169e91ff80db720a81d825</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -148,18 +164,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 15 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">ac5f631456eb18eddce0c485d78a592d</guid>
-    </item>
-    <item>
-      <title>ChatGPT ビジネスメール自動作成｜シーン別コピペ用プロンプト10選</title>
-      <description>💡 ChatGPT ビジネスメール自動作成｜シーン別コピペ用プロンプト10選
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/05/22/ChatGPT-ビジネスメール自動作成シーン別コピペ用プロンプト10選/
-
-#ChatGPT</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/ChatGPT-ビジネスメール自動作成シーン別コピペ用プロンプト10選/</link>
-      <pubDate>Mon, 15 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">89845caf557ecab0e3a7805380f9a0f3</guid>
     </item>
   </channel>
 </rss>
