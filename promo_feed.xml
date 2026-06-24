@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:12:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:13:06 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Slack ボタン承認ワークフロー｜インタラクティブ返信で処理を分岐させる手順2026</title>
+      <description>🔍 n8nでSlackボタン押下を起点に承認・却下を分岐する方法を解説。WaitノードのResume URL活用、WebhookでPayload受信、Switch分岐、メッセージ上書き
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフローインタラクティブ返信で処理を分岐させる手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフローインタラクティブ返信で処理を分岐させる手順2026/</link>
+      <pubDate>Wed, 24 Jun 2026 14:13:06 +0900</pubDate>
+      <guid isPermaLink="false">2e9f14ddc1455a963e4d6a67b1d7629c</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Excelの作業、まだ手動でやってますか？
@@ -144,24 +156,6 @@ https://ai-jissen-lab.com/2026/05/28/Cursor-AI料金は高い月額20とClaude-A
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 16 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">ff0f702dde44193816a2e25685908394</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>💡 ChatGPTを使っていて「もっと良い回答がほしい」と思ったことありませんか？
-
-プロが使う50のプロンプトテンプレートを公開中
-
-✅ 8カテゴリ完全網羅
-✅ コピペで即使用OK
-✅ ChatGPT / Claude / Gemini対応
-
-¥980で仕事が10倍速く
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI活用 #ChatGPT #プロンプト</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Tue, 16 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">b5f6bae55feadc5ec14767852aa35ef1</guid>
     </item>
   </channel>
 </rss>
