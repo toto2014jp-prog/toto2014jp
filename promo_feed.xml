@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>「自動化したいけどコードが書けない」
+→ それ、コピペで解決します
+
+📋 API設定手順を画像付きで解説
+📋 動くGAS・Pythonコードを全文掲載
+📋 メール・議事録・請求書のテンプレ多数
+
+¥1,480で即ダウンロード
+https://aijissenlab.gumroad.com/l/irvscs
+
+#業務効率化 #AI活用</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Fri, 26 Jun 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">8401200d97ab81ef91f949bbfc2e6435</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存版】議事録が5分で終わるプロンプト
@@ -144,18 +161,6 @@ AIも同じ。使いこなす人が勝ちます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 17 Jun 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">6746500b114396f1899915e65f6a8d65</guid>
-    </item>
-    <item>
-      <title>Cursor AI料金は高い？月額$20とClaude API・Copilot・Windsurfを比較</title>
-      <description>🔍 Cursor AI月額$20は高いか安いか。Claude API直接利用・GitHub Copilot・Windsurfと料金・機能を比較。用途別の損益分岐点と最適プランの選び方を
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/
-
-#AI #AIツール比較 #Claude</description>
-      <link>https://ai-jissen-lab.com/2026/05/28/Cursor-AI料金は高い月額20とClaude-APICopilotWindsurfを比較/</link>
-      <pubDate>Wed, 17 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">009bf53f93e203a61c70bcba49549952</guid>
     </item>
   </channel>
 </rss>
