@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:44:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【コピペOK】返信に困るメールへの神プロンプト
+
+「次のメールに対して、丁寧だが角が立たない返信を3パターン作って。それぞれトーンを変えて」
+
+↓こう変わる
+・断りメールが秒で完成
+・気まずい催促もスマートに
+・英文メールも同じ手順でOK
+
+#ChatGPT #ビジネスメール</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 27 Jun 2026 17:44:02 +0900</pubDate>
+      <guid isPermaLink="false">f34f0850adc3ce663b5b1db138d06b00</guid>
+    </item>
     <item>
       <title>ChatGPT業務自動化 実践テンプレート集</title>
       <description>「自動化したいけどコードが書けない」
@@ -146,21 +162,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://aijissenlab.gumroad.com/l/tokndw</link>
       <pubDate>Thu, 18 Jun 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">cadca41271e9eb234ba28f83169cf2cc</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>「AIに仕事を奪われる」と心配してる人へ
-
-AIは道具です
-
-Excelが登場した時「電卓の仕事が奪われる」と言われましたが、実際はExcelを使える人の価値が上がりました
-
-AIも同じ。使いこなす人が勝ちます
-
-#AI #キャリア #仕事術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Wed, 17 Jun 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">6746500b114396f1899915e65f6a8d65</guid>
     </item>
   </channel>
 </rss>
