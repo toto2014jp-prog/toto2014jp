@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 17:44:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:43:30 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Gmail 自動返信｜添付ファイル条件分岐で送信内容を変える手順2026</title>
+      <description>🔍 n8nでGmail自動返信を設定する手順を解説。添付ファイルの有無・MIMEタイプ・送信元ドメインで返信内容を条件分岐させる実務向け設定をコピペ可能なExpression付きで紹介
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条件分岐で送信内容を変える手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条件分岐で送信内容を変える手順2026/</link>
+      <pubDate>Sun, 28 Jun 2026 22:43:30 +0900</pubDate>
+      <guid isPermaLink="false">7732e81c311a4aa3013c3f86f4652993</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【コピペOK】返信に困るメールへの神プロンプト
@@ -147,21 +159,6 @@ https://ai-jissen-lab.com/2026/05/26/Cursor-AI-Python自動生成非エンジニ
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 19 Jun 2026 14:10:26 +0900</pubDate>
       <guid isPermaLink="false">7a36ba22901e67fe9441b357889e2915</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>「副業したいけど何から始めれば…」
-
-AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
-
-法的確認からツール選びまで、上から順にチェックしていくだけでOK
-
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #会社員副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Thu, 18 Jun 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">cadca41271e9eb234ba28f83169cf2cc</guid>
     </item>
   </channel>
 </rss>
