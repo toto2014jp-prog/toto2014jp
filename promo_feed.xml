@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:43:30 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:00:03 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
+
+👉「この回答を自己評価して、改善版を出して」
+
+たったこれだけ。AIが自分でダメ出しして書き直してくれます
+
+知ってるだけで差がつくテクニックです
+
+#ChatGPT活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 29 Jun 2026 16:00:03 +0900</pubDate>
+      <guid isPermaLink="false">82120aadabcbb1d9b3ce812e30a1ec44</guid>
+    </item>
     <item>
       <title>n8n Gmail 自動返信｜添付ファイル条件分岐で送信内容を変える手順2026</title>
       <description>🔍 n8nでGmail自動返信を設定する手順を解説。添付ファイルの有無・MIMEタイプ・送信元ドメインで返信内容を条件分岐させる実務向け設定をコピペ可能なExpression付きで紹介
@@ -143,22 +158,6 @@ https://ai-jissen-lab.com/2026/05/26/Cursor-AI-Python自動生成非エンジニ
       <link>https://ai-jissen-lab.com/2026/05/26/Cursor-AI-Python自動生成非エンジニアが業務ファイル処理を丸投げする手順/</link>
       <pubDate>Sun, 21 Jun 2026 14:10:57 +0900</pubDate>
       <guid isPermaLink="false">de203ac37d13bfe30589e99970ccce74</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTの「カスタム指示」使ってますか？
-
-設定するだけで毎回の回答精度が爆上がりします
-
-例:
-「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
-
-たった1分の設定で効果絶大💡
-
-#ChatGPT #AI活用術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Fri, 19 Jun 2026 14:10:26 +0900</pubDate>
-      <guid isPermaLink="false">7a36ba22901e67fe9441b357889e2915</guid>
     </item>
   </channel>
 </rss>
