@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:00:03 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:40:28 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>「AIに何を聞けばいいかわからない…」
+
+ビジネスメール・企画書・データ分析・プログラミングなど8分野のプロンプト50選をまとめました
+
+コピペして変数を埋めるだけで即使える実践的テンプレート集です
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Tue, 30 Jun 2026 22:40:28 +0900</pubDate>
+      <guid isPermaLink="false">09c9383400db87100e6cb36be969a8f8</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
@@ -146,18 +161,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 22 Jun 2026 13:39:38 +0900</pubDate>
       <guid isPermaLink="false">b160df0e209b21f39f946786a2186702</guid>
-    </item>
-    <item>
-      <title>Cursor AI Python自動生成｜非エンジニアが業務ファイル処理を丸投げする手順</title>
-      <description>🔍 PythonゼロでもCursor AIにCSV・Excel処理を丸投げできる手順を解説。環境構築から日本語ファイル対応・エラー修正まで非エンジニア向けに実例つきで紹介。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/26/Cursor-AI-Python自動生成非エンジニアが業務ファイル処理を丸投げする手順/
-
-#AI #Excel自動化 #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/26/Cursor-AI-Python自動生成非エンジニアが業務ファイル処理を丸投げする手順/</link>
-      <pubDate>Sun, 21 Jun 2026 14:10:57 +0900</pubDate>
-      <guid isPermaLink="false">de203ac37d13bfe30589e99970ccce74</guid>
     </item>
   </channel>
 </rss>
