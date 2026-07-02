@@ -8,8 +8,27 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:02:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【知らないと損】ChatGPTの精度が上がる5つの型
+
+① 役割を与える
+② 前提条件を渡す
+③ 出力形式を指定
+④ 例を1つ見せる
+⑤ 段階的に聞く
+
+この5つを意識するだけで「使えないAI」が「優秀な部下」に変わります
+
+保存推奨📌
+
+#プロンプト #ChatGPT</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 02 Jul 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">7247fc05a502fca7bedf10545efa9d42</guid>
+    </item>
     <item>
       <title>Windsurf無料プランでできること・できないこと｜有料移行の判断基準</title>
       <description>📝 Windsurf無料プランでできること・できないこと｜有料移行の判断基準
@@ -144,21 +163,6 @@ https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフロー
       <link>https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフローインタラクティブ返信で処理を分岐させる手順2026/</link>
       <pubDate>Wed, 24 Jun 2026 14:13:06 +0900</pubDate>
       <guid isPermaLink="false">2e9f14ddc1455a963e4d6a67b1d7629c</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Excelの作業、まだ手動でやってますか？
-
-ChatGPTに「このデータを○○形式に変換して」と頼むだけで、マクロを書いてくれます
-
-・VLOOKUP地獄から解放
-・ピボットテーブルも一瞬
-・グラフ作成まで自動
-
-#Excel #ChatGPT #業務効率化</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Wed, 24 Jun 2026 03:12:25 +0900</pubDate>
-      <guid isPermaLink="false">f7ba9b3a1d24b4b84479d0b4d5e32923</guid>
     </item>
   </channel>
 </rss>
