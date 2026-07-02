@@ -8,8 +8,28 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>AI副業で月5万円を目指すなら
+
+まず必要なのは「正しい順番」です
+
+1️⃣ マインドセット
+2️⃣ スキル棚卸し
+3️⃣ ツール選定
+4️⃣ 商品設計
+5️⃣ 集客
+
+全100項目のチェックリストで迷わない👇
+https://aijissenlab.gumroad.com/l/tokndw
+
+#副業 #AI活用</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Thu, 02 Jul 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">6d179b544e8f95e02691e84472c25105</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】ChatGPTの精度が上がる5つの型
@@ -151,18 +171,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 26 Jun 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">94149ff3e21423393a6cfd313c0456d5</guid>
-    </item>
-    <item>
-      <title>n8n Slack ボタン承認ワークフロー｜インタラクティブ返信で処理を分岐させる手順2026</title>
-      <description>🔍 n8nでSlackボタン押下を起点に承認・却下を分岐する方法を解説。WaitノードのResume URL活用、WebhookでPayload受信、Switch分岐、メッセージ上書き
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフローインタラクティブ返信で処理を分岐させる手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/12/n8n-Slack-ボタン承認ワークフローインタラクティブ返信で処理を分岐させる手順2026/</link>
-      <pubDate>Wed, 24 Jun 2026 14:13:06 +0900</pubDate>
-      <guid isPermaLink="false">2e9f14ddc1455a963e4d6a67b1d7629c</guid>
     </item>
   </channel>
 </rss>
