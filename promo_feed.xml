@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n×Claude API連携のやり方｜Makeより安いセルフホスト自動化構築手順</title>
+      <description>📝 n8n×Claude API連携のやり方｜Makeより安いセルフホスト自動化構築手順
+
+n8nとClaude APIを連携してMakeより安く自動化を構築する手順を解説。セルフホスト月$5〜10の費用感・Anthropicノード設定・ワークフロー実
+
+https://ai-jissen-lab.com/2026/05/27/n8nClaude-API連携のやり方Makeより安いセルフホスト自動化構築手順/
+
+#Claude #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/27/n8nClaude-API連携のやり方Makeより安いセルフホスト自動化構築手順/</link>
+      <pubDate>Fri, 03 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">c45dc75254ad3682434a3a1f6870499a</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>請求書作成、まだ手入力ですか？
@@ -153,23 +166,6 @@ https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 27 Jun 2026 17:44:02 +0900</pubDate>
       <guid isPermaLink="false">f34f0850adc3ce663b5b1db138d06b00</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>「自動化したいけどコードが書けない」
-→ それ、コピペで解決します
-
-📋 API設定手順を画像付きで解説
-📋 動くGAS・Pythonコードを全文掲載
-📋 メール・議事録・請求書のテンプレ多数
-
-¥1,480で即ダウンロード
-https://aijissenlab.gumroad.com/l/irvscs
-
-#業務効率化 #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Fri, 26 Jun 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">8401200d97ab81ef91f949bbfc2e6435</guid>
     </item>
   </channel>
 </rss>
