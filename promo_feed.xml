@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに聞いても浅い答えしか返ってこない」
+
+原因は9割これ👇
+
+“前提を渡していない”
+
+NG:「マーケ施策を教えて」
+OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ、根拠付きで」
+
+具体性が9割です
+
+#AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 04 Jul 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">64e2511ca499018585f2d55dc2200ec8</guid>
+    </item>
     <item>
       <title>n8n×Claude API連携のやり方｜Makeより安いセルフホスト自動化構築手順</title>
       <description>📝 n8n×Claude API連携のやり方｜Makeより安いセルフホスト自動化構築手順
@@ -150,22 +168,6 @@ https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条
       <link>https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条件分岐で送信内容を変える手順2026/</link>
       <pubDate>Sun, 28 Jun 2026 22:43:30 +0900</pubDate>
       <guid isPermaLink="false">7732e81c311a4aa3013c3f86f4652993</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【コピペOK】返信に困るメールへの神プロンプト
-
-「次のメールに対して、丁寧だが角が立たない返信を3パターン作って。それぞれトーンを変えて」
-
-↓こう変わる
-・断りメールが秒で完成
-・気まずい催促もスマートに
-・英文メールも同じ手順でOK
-
-#ChatGPT #ビジネスメール</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 27 Jun 2026 17:44:02 +0900</pubDate>
-      <guid isPermaLink="false">f34f0850adc3ce663b5b1db138d06b00</guid>
     </item>
   </channel>
 </rss>
