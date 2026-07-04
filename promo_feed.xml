@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIでブログ記事を書く時代
+
+でも「AIに丸投げ」だとGoogleに評価されません
+
+人間の経験×AIの効率＝最強のブログ運営
+
+そのやり方を8ステップで解説👇
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ運営 #SEO #AI活用</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Sat, 04 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">5992fe04b165141da7c48de0987216f0</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -156,18 +172,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 29 Jun 2026 16:00:03 +0900</pubDate>
       <guid isPermaLink="false">82120aadabcbb1d9b3ce812e30a1ec44</guid>
-    </item>
-    <item>
-      <title>n8n Gmail 自動返信｜添付ファイル条件分岐で送信内容を変える手順2026</title>
-      <description>🔍 n8nでGmail自動返信を設定する手順を解説。添付ファイルの有無・MIMEタイプ・送信元ドメインで返信内容を条件分岐させる実務向け設定をコピペ可能なExpression付きで紹介
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条件分岐で送信内容を変える手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/04/n8n-Gmail-自動返信添付ファイル条件分岐で送信内容を変える手順2026/</link>
-      <pubDate>Sun, 28 Jun 2026 22:43:30 +0900</pubDate>
-      <guid isPermaLink="false">7732e81c311a4aa3013c3f86f4652993</guid>
     </item>
   </channel>
 </rss>
