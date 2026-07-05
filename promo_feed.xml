@@ -8,8 +8,28 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>毎日AIを触って分かった、伸びる人の使い方
+
+❌ 1回の質問で完璧を求める
+⭕ 対話で一緒に育てる
+
+❌ 丸投げする
+⭕ 前提と条件を渡す
+
+❌ 出力をそのまま使う
+⭕ 「もっと良くして」を繰り返す
+
+AIは“壁打ち相手”として使うと化けます
+
+#AI活用 #仕事術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 05 Jul 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">97ded467575650159d0c499b9617cc99</guid>
+    </item>
     <item>
       <title>AIブログ運営 月1万円達成ステップガイド</title>
       <description>AIでブログ記事を書く時代
@@ -157,21 +177,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
       <pubDate>Tue, 30 Jun 2026 22:40:28 +0900</pubDate>
       <guid isPermaLink="false">09c9383400db87100e6cb36be969a8f8</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
-
-👉「この回答を自己評価して、改善版を出して」
-
-たったこれだけ。AIが自分でダメ出しして書き直してくれます
-
-知ってるだけで差がつくテクニックです
-
-#ChatGPT活用 #プロンプト</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Mon, 29 Jun 2026 16:00:03 +0900</pubDate>
-      <guid isPermaLink="false">82120aadabcbb1d9b3ce812e30a1ec44</guid>
     </item>
   </channel>
 </rss>
