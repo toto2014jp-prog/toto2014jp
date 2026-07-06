@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
+
+そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
+
+✅ スプレッドシート連携
+✅ メール・議事録・請求書の自動化
+
+¥1,480
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Mon, 06 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">e9622fe38572f70d08c81a38d8df2c3d</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存推奨】ChatGPTを使う時の5つのコツ
@@ -160,19 +177,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 02 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">7247fc05a502fca7bedf10545efa9d42</guid>
-    </item>
-    <item>
-      <title>Windsurf無料プランでできること・できないこと｜有料移行の判断基準</title>
-      <description>📝 Windsurf無料プランでできること・できないこと｜有料移行の判断基準
-
-Windsurf無料プランの実用範囲とFlowクレジット上限を具体的に解説。「月15日以上クレジット切れ」など有料移行タイミングを判断する具体的な基準をまとめて
-
-https://ai-jissen-lab.com/2026/05/31/Windsurf無料プランでできることできないこと有料移行の判断基準/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/05/31/Windsurf無料プランでできることできないこと有料移行の判断基準/</link>
-      <pubDate>Thu, 02 Jul 2026 07:02:20 +0900</pubDate>
-      <guid isPermaLink="false">50e21ca5d591a991ba2d62846c1d0085</guid>
     </item>
   </channel>
 </rss>
