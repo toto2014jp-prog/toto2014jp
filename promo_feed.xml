@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini Advanced vs ChatGPT Plus｜料金・日本語・仕事用途で比較</title>
+      <description>📝 Gemini Advanced vs ChatGPT Plus｜料金・日本語・仕事用途で比較
+
+月額約2,900円vs3,000円、日本語精度、Googleツール連携…どちらが自分の仕事に合うかを判断軸ごとに整理。2026年時点の正確な情報で迷いをなくす。
+
+https://ai-jissen-lab.com/2026/05/27/Gemini-Advanced-vs-ChatGPT-Plus料金日本語仕事用途で比較/
+
+#AIツール比較 #ChatGPT</description>
+      <link>https://ai-jissen-lab.com/2026/05/27/Gemini-Advanced-vs-ChatGPT-Plus料金日本語仕事用途で比較/</link>
+      <pubDate>Thu, 09 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">2a76817ede41ca030bc8c07674db308f</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】無料で使えるAIツール5選
@@ -152,22 +165,6 @@ AIは“壁打ち相手”として使うと化けます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sun, 05 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">97ded467575650159d0c499b9617cc99</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>AIでブログ記事を書く時代
-
-でも「AIに丸投げ」だとGoogleに評価されません
-
-人間の経験×AIの効率＝最強のブログ運営
-
-そのやり方を8ステップで解説👇
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ運営 #SEO #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Sat, 04 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">5992fe04b165141da7c48de0987216f0</guid>
     </item>
   </channel>
 </rss>
