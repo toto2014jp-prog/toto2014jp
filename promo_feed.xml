@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「会社にバレずにAI副業を始めたい」
+
+法的確認・確定申告の注意点もカバーした副業チェックリスト
+
+上から順にチェックするだけで安心してスタートできます
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#会社員副業 #AI副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Fri, 10 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">b8bfb7ae9f7e716c90b5700ffea318b8</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -148,18 +163,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 06 Jul 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">5cb4dcd6f454de6d007605f57057fa7d</guid>
-    </item>
-    <item>
-      <title>ChatGPT×Excel関数・マクロ自動生成｜非エンジニアが実務で使いこなす手順</title>
-      <description>🔍 ChatGPTにExcel関数・VBAマクロを作ってもらう具体的な手順を解説。プロンプトの書き方・エラー対処・データ整理の自動化まで、非エンジニアが今日から使える実践内容です。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/27/ChatGPTExcel関数マクロ自動生成非エンジニアが実務で使いこなす手順/
-
-#ChatGPT #Excel自動化 #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/27/ChatGPTExcel関数マクロ自動生成非エンジニアが実務で使いこなす手順/</link>
-      <pubDate>Sun, 05 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">97f83b2046e2f8df3177d487a2cf942e</guid>
     </item>
   </channel>
 </rss>
