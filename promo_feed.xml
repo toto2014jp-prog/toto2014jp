@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026</title>
+      <description>🔍 n8nとGoogleスプレッドシートの連携をv2ノード対応で解説。n8n Forms・Apps Script経由のGoogle Forms連携・認証エラー対処まで2026年最新UI
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/</link>
+      <pubDate>Sat, 11 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">a0d3de156e79e11903acfb19deb6f62f</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTの「カスタム指示」使ってますか？
@@ -145,23 +157,6 @@ https://ai-jissen-lab.com/2026/06/01/n8nセルフホスト-やり方RailwayでVP
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 07 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">9254ddc8ff9703800bd1597de78389b1</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
-
-そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
-
-✅ スプレッドシート連携
-✅ メール・議事録・請求書の自動化
-
-¥1,480
-https://aijissenlab.gumroad.com/l/irvscs
-
-#ChatGPT #業務効率化</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Mon, 06 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">e9622fe38572f70d08c81a38d8df2c3d</guid>
     </item>
   </channel>
 </rss>
