@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>2026年、AIで稼いでる人の共通点
+
+① 毎日AIを触っている
+② 1つの分野に特化している
+③ アウトプットし続けている
+④ 失敗を恐れない
+⑤ 情報収集を怠らない
+
+センスじゃなく「習慣」の差です
+
+#AI副業 #副業 #マインドセット</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 12 Jul 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">354cbd8b272599ab70695722938ec5de</guid>
+    </item>
     <item>
       <title>n8n Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026</title>
       <description>🔍 n8nとGoogleスプレッドシートの連携をv2ノード対応で解説。n8n Forms・Apps Script経由のGoogle Forms連携・認証エラー対処まで2026年最新UI
@@ -140,23 +157,6 @@ https://ai-jissen-lab.com/2026/06/01/n8nセルフホスト-やり方RailwayでVP
       <link>https://ai-jissen-lab.com/2026/06/01/n8nセルフホスト-やり方RailwayでVPS不要10分で立ち上げる手順2026/</link>
       <pubDate>Tue, 07 Jul 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">aad91153e828ecbc8885e653c3638c1d</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
-
-私の使い分け👇
-・長文の要約・分析 → Claude
-・アイデア出し・雑談 → ChatGPT
-・画像生成 → ChatGPT
-・コーディング → Claude
-
-皆さんはどう使い分けてますか？
-
-#AI #ChatGPT #Claude</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Tue, 07 Jul 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">9254ddc8ff9703800bd1597de78389b1</guid>
     </item>
   </channel>
 </rss>
