@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
+
+① ジャンル選定
+② WordPress初期設定
+③ AI記事作成
+④ SEO対策
+⑤ 収益化設定
+
+全部まとめた1冊です📖
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Sun, 12 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">9bead7049d5e188b8bab1d051c3eb946</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -145,18 +163,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 08 Jul 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">d1016477e493cb20fa0db912a0abc834</guid>
-    </item>
-    <item>
-      <title>n8nセルフホスト やり方｜RailwayでVPS不要・10分で立ち上げる手順2026</title>
-      <description>🔍 n8nをRailwayにセルフホストする2026年最新手順。VPS知識ゼロでもブラウザ完結。PostgreSQL設定・Webhook設定まで初心者が詰まるポイントを正直解説。月額$
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/01/n8nセルフホスト-やり方RailwayでVPS不要10分で立ち上げる手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/01/n8nセルフホスト-やり方RailwayでVPS不要10分で立ち上げる手順2026/</link>
-      <pubDate>Tue, 07 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">aad91153e828ecbc8885e653c3638c1d</guid>
     </item>
   </channel>
 </rss>
