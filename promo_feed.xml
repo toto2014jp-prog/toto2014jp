@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存版】議事録が5分で終わるプロンプト
+
+これをコピペするだけ👇
+
+「以下の会議メモを①決定事項②ToDo（担当者・期限）③未解決の論点 に整理して。箇条書きで簡潔に」
+
+あとは会議メモを貼るだけ。手書きの殴り書きでもOKです
+
+保存して次の会議で使ってみてください
+
+#ChatGPT #業務効率化</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Tue, 14 Jul 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">978097ead860f29a851afc7835e858d0</guid>
+    </item>
     <item>
       <title>AI Webサイト作成｜プログラミング不要で今日公開する実践ロードマップ</title>
       <description>🔍 プログラミング未経験でもAIツールを使えば最短1日でWebサイトを公開できます。ツール選びから公開手順まで、初心者が迷わない5ステップで解説します。
@@ -142,23 +159,6 @@ https://ai-jissen-lab.com/2026/05/27/Gemini-Advanced-vs-ChatGPT-Plus料金日本
       <link>https://ai-jissen-lab.com/2026/05/27/Gemini-Advanced-vs-ChatGPT-Plus料金日本語仕事用途で比較/</link>
       <pubDate>Thu, 09 Jul 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">2a76817ede41ca030bc8c07674db308f</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【知らないと損】無料で使えるAIツール5選
-
-1. ChatGPT（無料版でも十分）
-2. Claude（毎日無料で使える）
-3. Perplexity（AI検索）
-4. Canva AI（デザイン）
-5. DeepL（翻訳）
-
-全部0円で始められます
-
-#AI #無料ツール #おすすめ</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Thu, 09 Jul 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">97dcfd6e983f3e6bc561e6e949dcd0a8</guid>
     </item>
   </channel>
 </rss>
