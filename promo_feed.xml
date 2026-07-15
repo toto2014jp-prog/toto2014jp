@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順</title>
+      <description>💡 Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/26/Claude-APIGASでスプレッドシート自動化2025年版コピペで動く設定手順/
+
+#AI #Claude #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/26/Claude-APIGASでスプレッドシート自動化2025年版コピペで動く設定手順/</link>
+      <pubDate>Wed, 15 Jul 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">400e5df81157f42e3693d606ba04b3de</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【コピペOK】返信に困るメールへの神プロンプト
@@ -146,21 +158,6 @@ https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携や
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 11 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">b9a41724378fb2c70e3b66f0d509c7b0</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>「会社にバレずにAI副業を始めたい」
-
-法的確認・確定申告の注意点もカバーした副業チェックリスト
-
-上から順にチェックするだけで安心してスタートできます
-
-https://aijissenlab.gumroad.com/l/tokndw
-
-#会社員副業 #AI副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Fri, 10 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">b8bfb7ae9f7e716c90b5700ffea318b8</guid>
     </item>
   </channel>
 </rss>
