@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:34:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:36:37 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>ChatGPTで議事録作成が5分で終わる方法、知ってますか？
+
+このプロンプト1つでOK👇
+
+他にも企画書・メール・分析など50種のテンプレートを収録
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#ChatGPT活用 #仕事術</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Fri, 17 Jul 2026 02:36:37 +0900</pubDate>
+      <guid isPermaLink="false">f6f18a726f7b8bf0e59c47398aa36831</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
@@ -145,18 +160,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sun, 12 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">354cbd8b272599ab70695722938ec5de</guid>
-    </item>
-    <item>
-      <title>n8n Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026</title>
-      <description>🔍 n8nとGoogleスプレッドシートの連携をv2ノード対応で解説。n8n Forms・Apps Script経由のGoogle Forms連携・認証エラー対処まで2026年最新UI
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/</link>
-      <pubDate>Sat, 11 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">a0d3de156e79e11903acfb19deb6f62f</guid>
     </item>
   </channel>
 </rss>
