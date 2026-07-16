@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:34:37 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
+
+👉「この回答を自己評価して、改善版を出して」
+
+たったこれだけ。AIが自分でダメ出しして書き直してくれます
+
+知ってるだけで差がつくテクニックです
+
+#ChatGPT活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 16 Jul 2026 12:34:37 +0900</pubDate>
+      <guid isPermaLink="false">b7cb1f2129c67e6ad104b3eca2781071</guid>
+    </item>
     <item>
       <title>Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順</title>
       <description>💡 Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順
@@ -142,22 +157,6 @@ https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携や
       <link>https://ai-jissen-lab.com/2026/06/07/n8n-Googleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/</link>
       <pubDate>Sat, 11 Jul 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">a0d3de156e79e11903acfb19deb6f62f</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTの「カスタム指示」使ってますか？
-
-設定するだけで毎回の回答精度が爆上がりします
-
-例:
-「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
-
-たった1分の設定で効果絶大💡
-
-#ChatGPT #AI活用術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 11 Jul 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">b9a41724378fb2c70e3b66f0d509c7b0</guid>
     </item>
   </channel>
 </rss>
