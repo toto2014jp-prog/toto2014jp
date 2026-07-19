@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 20:22:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:28:21 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
+
+7フェーズ・100項目超のチェックリストで迷わず進めます
+
+✅ マインドセットから収益化まで網羅
+✅ チェックボックスで進捗管理
+✅ おすすめツール早見表付き
+
+¥980
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Sun, 19 Jul 2026 15:28:21 +0900</pubDate>
+      <guid isPermaLink="false">ff3cd51e46053ef2934b88394fdc64dd</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】ChatGPTの精度が上がる5つの型
@@ -148,18 +166,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 14 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">978097ead860f29a851afc7835e858d0</guid>
-    </item>
-    <item>
-      <title>AI Webサイト作成｜プログラミング不要で今日公開する実践ロードマップ</title>
-      <description>🔍 プログラミング未経験でもAIツールを使えば最短1日でWebサイトを公開できます。ツール選びから公開手順まで、初心者が迷わない5ステップで解説します。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/22/AI-Webサイト作成プログラミング不要で今日公開する実践ロードマップ/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/AI-Webサイト作成プログラミング不要で今日公開する実践ロードマップ/</link>
-      <pubDate>Mon, 13 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">bd0ccf32177a0599af93b59ba13bfe74</guid>
     </item>
   </channel>
 </rss>
