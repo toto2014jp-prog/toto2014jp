@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 15:28:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:44:12 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>請求書作成、まだ手入力ですか？
+
+スプレッドシート×ChatGPT APIを連携すれば
+・項目入力→自動で文面生成
+・番号も自動採番
+・インボイス対応も漏れなし
+
+月末の憂鬱な作業が10分で終わります
+
+#業務自動化 #ChatGPT</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 20 Jul 2026 12:44:12 +0900</pubDate>
+      <guid isPermaLink="false">dcdc385ecb7c474c409aa1ff59863214</guid>
+    </item>
     <item>
       <title>AI副業スタートアップ完全チェックリスト</title>
       <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
@@ -149,23 +165,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://aijissenlab.gumroad.com/l/irvscs</link>
       <pubDate>Tue, 14 Jul 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">748d3106631a3594a580ef970256b9a1</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【保存版】議事録が5分で終わるプロンプト
-
-これをコピペするだけ👇
-
-「以下の会議メモを①決定事項②ToDo（担当者・期限）③未解決の論点 に整理して。箇条書きで簡潔に」
-
-あとは会議メモを貼るだけ。手書きの殴り書きでもOKです
-
-保存して次の会議で使ってみてください
-
-#ChatGPT #業務効率化</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Tue, 14 Jul 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">978097ead860f29a851afc7835e858d0</guid>
     </item>
   </channel>
 </rss>
