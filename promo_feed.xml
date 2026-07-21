@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:44:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:57:37 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perplexity AI×Notion連携やり方｜競合調査結果をDBに自動保存する手順</title>
+      <description>💡 Perplexity AI×Notion連携やり方｜競合調査結果をDBに自動保存する手順
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/28/Perplexity-AINotion連携やり方競合調査結果をDBに自動保存する手順/
+
+#AI #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/28/Perplexity-AINotion連携やり方競合調査結果をDBに自動保存する手順/</link>
+      <pubDate>Tue, 21 Jul 2026 15:57:37 +0900</pubDate>
+      <guid isPermaLink="false">e6611016ba555f6bdac3ee1eb8f47230</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>請求書作成、まだ手入力ですか？
@@ -151,20 +163,6 @@ https://ai-jissen-lab.com/2026/05/26/Claude-APIGASでスプレッドシート自
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 15 Jul 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">0cd714850b747491a997e4f85c96b36b</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>議事録・請求書・メール作成に毎日時間を奪われていませんか？
-
-ChatGPT APIとスプレッドシートを連携すれば、これ全部自動化できます
-
-コピペで動くGASコードと手順を全22ページにまとめました👇
-https://aijissenlab.gumroad.com/l/irvscs
-
-#業務自動化 #GAS</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Tue, 14 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">748d3106631a3594a580ef970256b9a1</guid>
     </item>
   </channel>
 </rss>
