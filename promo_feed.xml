@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:50:19 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIを使ってブログで月1万円稼ぎたい方へ
+
+ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
+
+✅ すぐ使えるAIプロンプト8種収録
+✅ WordPress設定チェックリスト付き
+✅ 収益モデル例も掲載
+
+¥980で始められます
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ #AI活用 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Thu, 06 Aug 2026 19:50:19 +0900</pubDate>
+      <guid isPermaLink="false">6a72b9e1f0beb423bd26e1e4cca25112</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -153,18 +171,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 16 Jul 2026 12:34:37 +0900</pubDate>
       <guid isPermaLink="false">b7cb1f2129c67e6ad104b3eca2781071</guid>
-    </item>
-    <item>
-      <title>Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順</title>
-      <description>💡 Claude API×GASでスプレッドシート自動化｜2025年版コピペで動く設定手順
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/05/26/Claude-APIGASでスプレッドシート自動化2025年版コピペで動く設定手順/
-
-#AI #Claude #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/26/Claude-APIGASでスプレッドシート自動化2025年版コピペで動く設定手順/</link>
-      <pubDate>Wed, 15 Jul 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">400e5df81157f42e3693d606ba04b3de</guid>
     </item>
   </channel>
 </rss>
