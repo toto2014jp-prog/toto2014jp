@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 20:30:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:34:29 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Gmail連携やり方｜特定メール受信をSlackに自動転送するノーコード手順</title>
+      <description>💡 n8n Gmail連携やり方｜特定メール受信をSlackに自動転送するノーコード手順
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受信をSlackに自動転送するノーコード手順/
+
+#業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受信をSlackに自動転送するノーコード手順/</link>
+      <pubDate>Fri, 07 Aug 2026 21:34:29 +0900</pubDate>
+      <guid isPermaLink="false">30169391a850c24188f593949925b6f3</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>毎日AIを触って分かった、伸びる人の使い方
@@ -161,21 +173,6 @@ https://ai-jissen-lab.com/2026/06/18/Claude-API-Notion自動保存やり方API�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 17 Jul 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">1fd86f713535094372ea96c707c75f1e</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>ChatGPTで議事録作成が5分で終わる方法、知ってますか？
-
-このプロンプト1つでOK👇
-
-他にも企画書・メール・分析など50種のテンプレートを収録
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#ChatGPT活用 #仕事術</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Fri, 17 Jul 2026 02:36:37 +0900</pubDate>
-      <guid isPermaLink="false">f6f18a726f7b8bf0e59c47398aa36831</guid>
     </item>
   </channel>
 </rss>
