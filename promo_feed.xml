@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:37:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:42:17 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>ChatGPT業務自動化 実践テンプレート集（¥1,480）
+
+プロンプト集の一歩先へ。
+「動くコード」で定型業務を自動化する実装ガイドです
+
+・API基礎セットアップ
+・スプレッドシート連携
+・ワークフロー実例3選
+
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT活用 #自動化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Mon, 10 Aug 2026 03:42:17 +0900</pubDate>
+      <guid isPermaLink="false">814fb30dcea33b640baf9e8d369c1ae4</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存推奨】ChatGPTを使う時の5つのコツ
@@ -159,19 +177,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 18 Jul 2026 20:22:04 +0900</pubDate>
       <guid isPermaLink="false">ae81ced7694011ea419adcd1fe9f3c1a</guid>
-    </item>
-    <item>
-      <title>Claude API Notion自動保存やり方｜API応答をDBに書き込む手順2026</title>
-      <description>📝 Claude API Notion自動保存やり方｜API応答をDBに書き込む手順2026
-
-Claude APIの応答をNotionデータベースに自動保存する実装手順を解説。2,000文字制限・Markdown変換・インテグレーション招待漏れなど詰まり
-
-https://ai-jissen-lab.com/2026/06/18/Claude-API-Notion自動保存やり方API応答をDBに書き込む手順2026/
-
-#Claude #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/06/18/Claude-API-Notion自動保存やり方API応答をDBに書き込む手順2026/</link>
-      <pubDate>Fri, 17 Jul 2026 22:54:23 +0900</pubDate>
-      <guid isPermaLink="false">b39c57f2e391de5a431d49bebc16328a</guid>
     </item>
   </channel>
 </rss>
