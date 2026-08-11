@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 03:02:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:25:05 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make vs n8n どっちがいい？料金・セルフホスト別の選び方2026</title>
+      <description>📝 Make vs n8n どっちがいい？料金・セルフホスト別の選び方2026
+
+MakeとN8nを料金・セルフホスト・AI機能で比較。月500回〜50,000回の実務シナリオ別コスト試算と、自分に合うツールの選び方を具体的な数字で解説。
+
+https://ai-jissen-lab.com/2026/05/30/Make-vs-n8n-どっちがいい料金セルフホスト別の選び方2026/
+
+#AI #AIツール比較 #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/30/Make-vs-n8n-どっちがいい料金セルフホスト別の選び方2026/</link>
+      <pubDate>Tue, 11 Aug 2026 22:25:05 +0900</pubDate>
+      <guid isPermaLink="false">80a2e8aa597c29d74439337c2a881ea6</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
@@ -157,24 +170,6 @@ https://ai-jissen-lab.com/2026/05/28/Perplexity-AINotion連携やり方競合調
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 20 Jul 2026 12:44:12 +0900</pubDate>
       <guid isPermaLink="false">dcdc385ecb7c474c409aa1ff59863214</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
-
-7フェーズ・100項目超のチェックリストで迷わず進めます
-
-✅ マインドセットから収益化まで網羅
-✅ チェックボックスで進捗管理
-✅ おすすめツール早見表付き
-
-¥980
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Sun, 19 Jul 2026 15:28:21 +0900</pubDate>
-      <guid isPermaLink="false">ff3cd51e46053ef2934b88394fdc64dd</guid>
     </item>
   </channel>
 </rss>
