@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:40:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:51:20 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>「プロンプトの書き方がわからない」
+→ それ、テンプレートで解決します
+
+📋 50のプロンプトをコピペするだけ
+📋 ChatGPT / Claude / Gemini全対応
+📋 ¥980で即ダウンロード
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI初心者 #プロンプト</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Wed, 16 Sep 2026 07:51:20 +0900</pubDate>
+      <guid isPermaLink="false">35da9ae6f81ce643b00a105663441c73</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIで業務時間を50%削減した方法
@@ -159,18 +175,6 @@ OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 21 Jul 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">cababec849196cb210be3bf53afa0528</guid>
-    </item>
-    <item>
-      <title>Perplexity AI×Notion連携やり方｜競合調査結果をDBに自動保存する手順</title>
-      <description>💡 Perplexity AI×Notion連携やり方｜競合調査結果をDBに自動保存する手順
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/05/28/Perplexity-AINotion連携やり方競合調査結果をDBに自動保存する手順/
-
-#AI #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/28/Perplexity-AINotion連携やり方競合調査結果をDBに自動保存する手順/</link>
-      <pubDate>Tue, 21 Jul 2026 15:57:37 +0900</pubDate>
-      <guid isPermaLink="false">e6611016ba555f6bdac3ee1eb8f47230</guid>
     </item>
   </channel>
 </rss>
