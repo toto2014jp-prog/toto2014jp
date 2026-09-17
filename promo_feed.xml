@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:41:34 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini Advanced無料トライアルの始め方と解約方法｜ChatGPTとどっちがいいか判断基準も解説</title>
+      <description>🔍 Gemini Advancedの無料トライアル登録から解約手順まで解説。自動課金を防ぐ即日解約予約のコツ、ChatGPTとの使い分け基準も具体的に紹介。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/22/Gemini-Advanced無料トライアルの始め方と解約方法ChatGPTとどっちがいいか判断基準も解説/
+
+#AI #ChatGPT</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/Gemini-Advanced無料トライアルの始め方と解約方法ChatGPTとどっちがいいか判断基準も解説/</link>
+      <pubDate>Thu, 17 Sep 2026 13:41:34 +0900</pubDate>
+      <guid isPermaLink="false">d5249ae6b6cf71caa7bcc34fc8a86f70</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】無料で使えるAIツール5選
@@ -156,24 +168,6 @@ AIは“壁打ち相手”として使うと化けます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 06 Aug 2026 20:30:10 +0900</pubDate>
       <guid isPermaLink="false">f395172d81365c3dec4a3522fd51b09a</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>AIを使ってブログで月1万円稼ぎたい方へ
-
-ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
-
-✅ すぐ使えるAIプロンプト8種収録
-✅ WordPress設定チェックリスト付き
-✅ 収益モデル例も掲載
-
-¥980で始められます
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ #AI活用 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Thu, 06 Aug 2026 19:50:19 +0900</pubDate>
-      <guid isPermaLink="false">6a72b9e1f0beb423bd26e1e4cca25112</guid>
     </item>
   </channel>
 </rss>
