@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:41:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに仕事を奪われる」と心配してる人へ
+
+AIは道具です
+
+Excelが登場した時「電卓の仕事が奪われる」と言われましたが、実際はExcelを使える人の価値が上がりました
+
+AIも同じ。使いこなす人が勝ちます
+
+#AI #キャリア #仕事術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 17 Sep 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">3d6fc9b6307d5f929b7e3521e2cf8767</guid>
+    </item>
     <item>
       <title>Gemini Advanced無料トライアルの始め方と解約方法｜ChatGPTとどっちがいいか判断基準も解説</title>
       <description>🔍 Gemini Advancedの無料トライアル登録から解約手順まで解説。自動課金を防ぐ即日解約予約のコツ、ChatGPTとの使い分け基準も具体的に紹介。
@@ -148,26 +163,6 @@ https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受�
       <link>https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受信をSlackに自動転送するノーコード手順/</link>
       <pubDate>Fri, 07 Aug 2026 21:34:29 +0900</pubDate>
       <guid isPermaLink="false">30169391a850c24188f593949925b6f3</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>毎日AIを触って分かった、伸びる人の使い方
-
-❌ 1回の質問で完璧を求める
-⭕ 対話で一緒に育てる
-
-❌ 丸投げする
-⭕ 前提と条件を渡す
-
-❌ 出力をそのまま使う
-⭕ 「もっと良くして」を繰り返す
-
-AIは“壁打ち相手”として使うと化けます
-
-#AI活用 #仕事術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Thu, 06 Aug 2026 20:30:10 +0900</pubDate>
-      <guid isPermaLink="false">f395172d81365c3dec4a3522fd51b09a</guid>
     </item>
   </channel>
 </rss>
