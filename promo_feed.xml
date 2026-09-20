@@ -8,8 +8,39 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTの「カスタム指示」使ってますか？
+
+設定するだけで毎回の回答精度が爆上がりします
+
+例:
+「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
+
+たった1分の設定で効果絶大💡
+
+#ChatGPT #AI活用術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 20 Sep 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">37630e24cbb6fb1d076582c25de838fa</guid>
+    </item>
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「副業したいけど何から始めれば…」
+
+AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
+
+法的確認からツール選びまで、上から順にチェックしていくだけでOK
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #会社員副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Sun, 20 Sep 2026 19:26:18 +0900</pubDate>
+      <guid isPermaLink="false">d531b6b0eb1d389da4ef9505a42b170a</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -134,35 +165,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://aijissenlab.gumroad.com/l/irvscs</link>
       <pubDate>Mon, 10 Aug 2026 03:42:17 +0900</pubDate>
       <guid isPermaLink="false">814fb30dcea33b640baf9e8d369c1ae4</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【保存推奨】ChatGPTを使う時の5つのコツ
-
-① 役割を与える（「あなたはプロの編集者です」）
-② 具体的な条件を指定する
-③ 出力形式を決める
-④ 段階的に聞く
-⑤ 「なぜ？」を追加する
-
-これだけで回答の質が劇的に変わります
-
-#ChatGPT #AI活用 #プロンプト</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sun, 09 Aug 2026 00:37:47 +0900</pubDate>
-      <guid isPermaLink="false">152a86a1a7238273842c9babef63d692</guid>
-    </item>
-    <item>
-      <title>n8n Gmail連携やり方｜特定メール受信をSlackに自動転送するノーコード手順</title>
-      <description>💡 n8n Gmail連携やり方｜特定メール受信をSlackに自動転送するノーコード手順
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受信をSlackに自動転送するノーコード手順/
-
-#業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/06/02/n8n-Gmail連携やり方特定メール受信をSlackに自動転送するノーコード手順/</link>
-      <pubDate>Fri, 07 Aug 2026 21:34:29 +0900</pubDate>
-      <guid isPermaLink="false">30169391a850c24188f593949925b6f3</guid>
     </item>
   </channel>
 </rss>
