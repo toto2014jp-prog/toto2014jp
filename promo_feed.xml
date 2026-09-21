@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:31:44 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude API Python入門｜キー取得からテキスト生成・レスポンス受け取り手順2026</title>
+      <description>🔍 Claude APIをPythonで使う2026年最新手順。キー取得・SDK導入・Messages APIでのテキスト生成まで、コピペ動作コード付きで解説。旧コードの落とし穴も明示
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/06/17/Claude-API-Python入門キー取得からテキスト生成レスポンス受け取り手順2026/
+
+#Claude</description>
+      <link>https://ai-jissen-lab.com/2026/06/17/Claude-API-Python入門キー取得からテキスト生成レスポンス受け取り手順2026/</link>
+      <pubDate>Mon, 21 Sep 2026 13:31:44 +0900</pubDate>
+      <guid isPermaLink="false">4728bb9e1290bcff1512318074115fe9</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTの「カスタム指示」使ってますか？
@@ -147,24 +159,6 @@ https://ai-jissen-lab.com/2026/05/30/Make-vs-n8n-どっちがいい料金セル�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 11 Aug 2026 03:02:14 +0900</pubDate>
       <guid isPermaLink="false">b9eca04b073dc2ada43a5eb298ab4b37</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>ChatGPT業務自動化 実践テンプレート集（¥1,480）
-
-プロンプト集の一歩先へ。
-「動くコード」で定型業務を自動化する実装ガイドです
-
-・API基礎セットアップ
-・スプレッドシート連携
-・ワークフロー実例3選
-
-https://aijissenlab.gumroad.com/l/irvscs
-
-#ChatGPT活用 #自動化</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Mon, 10 Aug 2026 03:42:17 +0900</pubDate>
-      <guid isPermaLink="false">814fb30dcea33b640baf9e8d369c1ae4</guid>
     </item>
   </channel>
 </rss>
