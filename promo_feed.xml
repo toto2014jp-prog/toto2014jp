@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeで業務効率化｜AI初心者でも今日から始める使い方入門</title>
+      <description>💡 Claude Codeで業務効率化｜AI初心者でも今日から始める使い方入門
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/22/Claude-Codeで業務効率化AI初心者でも今日から始める使い方入門/
+
+#AI #Claude #業務効率化</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/Claude-Codeで業務効率化AI初心者でも今日から始める使い方入門/</link>
+      <pubDate>Wed, 23 Sep 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">aa30d3923e9c448332614c0ca8421ed9</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Excelの作業、まだ手動でやってますか？
@@ -144,22 +156,6 @@ https://ai-jissen-lab.com/2026/05/22/Gemini-Advanced無料トライアルの始�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 16 Sep 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">329c2e7736e9d2bbd0130a95a1186177</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>「プロンプトの書き方がわからない」
-→ それ、テンプレートで解決します
-
-📋 50のプロンプトをコピペするだけ
-📋 ChatGPT / Claude / Gemini全対応
-📋 ¥980で即ダウンロード
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI初心者 #プロンプト</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Wed, 16 Sep 2026 07:51:20 +0900</pubDate>
-      <guid isPermaLink="false">35da9ae6f81ce643b00a105663441c73</guid>
     </item>
   </channel>
 </rss>
