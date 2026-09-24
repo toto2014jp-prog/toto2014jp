@@ -8,8 +8,22 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>ChatGPT APIをスプレッドシートから呼ぶ方法、知ってますか？
+
+=GPT(プロンプト) というカスタム関数を作れば、商品説明の一括生成も翻訳も一瞬です
+
+そのGASコード全文を教材に収録しました👇
+https://aijissenlab.gumroad.com/l/irvscs
+
+#GoogleAppsScript #ChatGPT</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Thu, 24 Sep 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">a5d571cf5c70cd6b0c249397f7367c24</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存版】議事録が5分で終わるプロンプト
@@ -144,18 +158,6 @@ AIも同じ。使いこなす人が勝ちます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 17 Sep 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">3d6fc9b6307d5f929b7e3521e2cf8767</guid>
-    </item>
-    <item>
-      <title>Gemini Advanced無料トライアルの始め方と解約方法｜ChatGPTとどっちがいいか判断基準も解説</title>
-      <description>🔍 Gemini Advancedの無料トライアル登録から解約手順まで解説。自動課金を防ぐ即日解約予約のコツ、ChatGPTとの使い分け基準も具体的に紹介。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/22/Gemini-Advanced無料トライアルの始め方と解約方法ChatGPTとどっちがいいか判断基準も解説/
-
-#AI #ChatGPT</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/Gemini-Advanced無料トライアルの始め方と解約方法ChatGPTとどっちがいいか判断基準も解説/</link>
-      <pubDate>Thu, 17 Sep 2026 13:41:34 +0900</pubDate>
-      <guid isPermaLink="false">d5249ae6b6cf71caa7bcc34fc8a86f70</guid>
     </item>
   </channel>
 </rss>
