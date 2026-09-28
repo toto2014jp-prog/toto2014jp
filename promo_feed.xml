@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:21:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:25:05 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion GAS連携やり方｜スプレッドシートをNotionDBに自動同期する手順</title>
+      <description>💡 Notion GAS連携やり方｜スプレッドシートをNotionDBに自動同期する手順
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/28/Notion-GAS連携やり方スプレッドシートをNotionDBに自動同期する手順/
+
+#業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/28/Notion-GAS連携やり方スプレッドシートをNotionDBに自動同期する手順/</link>
+      <pubDate>Mon, 28 Sep 2026 21:25:05 +0900</pubDate>
+      <guid isPermaLink="false">f97240c60b5bec5cdab67dc377dd7546</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【コピペOK】返信に困るメールへの神プロンプト
@@ -144,21 +156,6 @@ https://ai-jissen-lab.com/2026/06/17/Claude-API-Python入門キー取得から�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sun, 20 Sep 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">37630e24cbb6fb1d076582c25de838fa</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>「副業したいけど何から始めれば…」
-
-AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
-
-法的確認からツール選びまで、上から順にチェックしていくだけでOK
-
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #会社員副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Sun, 20 Sep 2026 19:26:18 +0900</pubDate>
-      <guid isPermaLink="false">d531b6b0eb1d389da4ef9505a42b170a</guid>
     </item>
   </channel>
 </rss>
