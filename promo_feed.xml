@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:25:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:25:24 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
+
+👉「この回答を自己評価して、改善版を出して」
+
+たったこれだけ。AIが自分でダメ出しして書き直してくれます
+
+知ってるだけで差がつくテクニックです
+
+#ChatGPT活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 28 Sep 2026 21:25:24 +0900</pubDate>
+      <guid isPermaLink="false">7e564998885b2f797d3ec17a5c70e89d</guid>
+    </item>
     <item>
       <title>Notion GAS連携やり方｜スプレッドシートをNotionDBに自動同期する手順</title>
       <description>💡 Notion GAS連携やり方｜スプレッドシートをNotionDBに自動同期する手順
@@ -140,22 +155,6 @@ https://ai-jissen-lab.com/2026/06/17/Claude-API-Python入門キー取得から�
       <link>https://ai-jissen-lab.com/2026/06/17/Claude-API-Python入門キー取得からテキスト生成レスポンス受け取り手順2026/</link>
       <pubDate>Mon, 21 Sep 2026 13:31:44 +0900</pubDate>
       <guid isPermaLink="false">4728bb9e1290bcff1512318074115fe9</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTの「カスタム指示」使ってますか？
-
-設定するだけで毎回の回答精度が爆上がりします
-
-例:
-「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
-
-たった1分の設定で効果絶大💡
-
-#ChatGPT #AI活用術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sun, 20 Sep 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">37630e24cbb6fb1d076582c25de838fa</guid>
     </item>
   </channel>
 </rss>
