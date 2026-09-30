@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業で月5万円稼ぐロードマップ｜ジャンル選びから初受注まで</title>
+      <description>💡 AI副業で月5万円稼ぐロードマップ｜ジャンル選びから初受注まで
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/22/AI副業で月5万円稼ぐロードマップジャンル選びから初受注まで/
+
+#AI #AI副業</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/AI副業で月5万円稼ぐロードマップジャンル選びから初受注まで/</link>
+      <pubDate>Wed, 30 Sep 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">ed642b1f25301fbd05af48fd0ad41d37</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIツール、結局どれ使えばいいの？という人へ
@@ -146,22 +158,6 @@ ChatGPTに「このデータを○○形式に変換して」と頼むだけで�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 23 Sep 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">7db7c0654617af2b6d864e6aa661a8e7</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>「ブログを始めたいけどネタがない…」
-
-AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
-
-月1万円達成までのロードマップを1冊にまとめた完全ガイド
-初心者でも迷わず進められます
-
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ初心者 #AIライティング</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Tue, 22 Sep 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">172618d551a798ccb3a71427720c68e7</guid>
     </item>
   </channel>
 </rss>
