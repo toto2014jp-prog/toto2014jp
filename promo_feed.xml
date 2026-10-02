@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude API料金削減やり方｜トークン節約・コスト最適化の設定手順2026</title>
+      <description>📝 Claude API料金削減やり方｜トークン節約・コスト最適化の設定手順2026
+
+Claude APIのコストを最大90%削減する具体手順を解説。Prompt Caching・Batch API・モデル使い分けを実装コード付きで紹介。今日から
+
+https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン節約コスト最適化の設定手順2026/
+
+#AIツール比較 #Claude</description>
+      <link>https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン節約コスト最適化の設定手順2026/</link>
+      <pubDate>Fri, 02 Oct 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">943cec6fb155c2f1c52d73e43411f904</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>請求書作成、まだ手入力ですか？
@@ -155,20 +168,6 @@ https://ai-jissen-lab.com/2026/05/28/Notion-GAS連携やり方スプレッドシ
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 28 Sep 2026 02:21:14 +0900</pubDate>
       <guid isPermaLink="false">905024f1e2cad2890473503468fa59cf</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>ChatGPT APIをスプレッドシートから呼ぶ方法、知ってますか？
-
-=GPT(プロンプト) というカスタム関数を作れば、商品説明の一括生成も翻訳も一瞬です
-
-そのGASコード全文を教材に収録しました👇
-https://aijissenlab.gumroad.com/l/irvscs
-
-#GoogleAppsScript #ChatGPT</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Thu, 24 Sep 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">a5d571cf5c70cd6b0c249397f7367c24</guid>
     </item>
   </channel>
 </rss>
