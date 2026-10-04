@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存推奨】ChatGPTを使う時の5つのコツ
+
+① 役割を与える（「あなたはプロの編集者です」）
+② 具体的な条件を指定する
+③ 出力形式を決める
+④ 段階的に聞く
+⑤ 「なぜ？」を追加する
+
+これだけで回答の質が劇的に変わります
+
+#ChatGPT #AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 04 Oct 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">704b0284f67d4dc7a9ca0690bd17b344</guid>
+    </item>
     <item>
       <title>Make×Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026</title>
       <description>💡 Make×Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026
@@ -155,24 +172,6 @@ https://ai-jissen-lab.com/2026/05/22/AI副業で月5万円稼ぐロードマッ�
       <link>https://ai-jissen-lab.com/2026/05/22/AI副業で月5万円稼ぐロードマップジャンル選びから初受注まで/</link>
       <pubDate>Wed, 30 Sep 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">ed642b1f25301fbd05af48fd0ad41d37</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>AIツール、結局どれ使えばいいの？という人へ
-
-用途別の正解👇
-・文章/要約 → Claude
-・検索/最新情報 → Perplexity
-・画像 → ChatGPT(DALL-E)
-・コード → Claude
-・資料作成 → Gamma
-
-全部無料枠あり。まず触るのが一番です
-
-#AI活用 #AIツール</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Tue, 29 Sep 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">f37dd16d9b294b8d0b523fb92bd700d6</guid>
     </item>
   </channel>
 </rss>
