@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make×Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026</title>
+      <description>💡 Make×Googleスプレッドシート連携やり方｜フォーム回答を自動追記する手順2026
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/06/02/MakeGoogleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/
+
+#業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/06/02/MakeGoogleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/</link>
+      <pubDate>Sun, 04 Oct 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">6f338815ee9b28c9ede1c8f79d0079b4</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>毎日AIを触って分かった、伸びる人の使い方
@@ -161,24 +173,6 @@ https://ai-jissen-lab.com/2026/05/22/AI副業で月5万円稼ぐロードマッ�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 29 Sep 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">f37dd16d9b294b8d0b523fb92bd700d6</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>💡 ChatGPTを使っていて「もっと良い回答がほしい」と思ったことありませんか？
-
-プロが使う50のプロンプトテンプレートを公開中
-
-✅ 8カテゴリ完全網羅
-✅ コピペで即使用OK
-✅ ChatGPT / Claude / Gemini対応
-
-¥980で仕事が10倍速く
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI活用 #ChatGPT #プロンプト</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Tue, 29 Sep 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">89b82509b05c72dab8575a4dd2933934</guid>
     </item>
   </channel>
 </rss>
