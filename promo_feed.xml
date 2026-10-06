@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Gmail連携やり方｜特定メール受信をNotionに自動記録する手順</title>
+      <description>📝 Make Gmail連携やり方｜特定メール受信をNotionに自動記録する手順
+
+MakeとGmailを連携し、特定条件のメールをNotionに自動保存する手順を解説。Watch Emailsトリガーの設定・Pub/Sub構成・30日期限切れ
+
+https://ai-jissen-lab.com/2026/06/01/Make-Gmail連携やり方特定メール受信をNotionに自動記録する手順/
+
+#業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/06/01/Make-Gmail連携やり方特定メール受信をNotionに自動記録する手順/</link>
+      <pubDate>Tue, 06 Oct 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">90b1c18280c8e31f7ea70909da018300</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
@@ -155,26 +168,6 @@ https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 01 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">a8b682d8be6593c6442d1e5fa5f62ad8</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>AI副業で月5万円を目指すなら
-
-まず必要なのは「正しい順番」です
-
-1️⃣ マインドセット
-2️⃣ スキル棚卸し
-3️⃣ ツール選定
-4️⃣ 商品設計
-5️⃣ 集客
-
-全100項目のチェックリストで迷わない👇
-https://aijissenlab.gumroad.com/l/tokndw
-
-#副業 #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Thu, 01 Oct 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">aa3a181cba099e3339a4952bfbfc64ee</guid>
     </item>
   </channel>
 </rss>
