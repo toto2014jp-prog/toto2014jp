@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>AIで業務時間を50%削減した方法
+
+① メール下書き → ChatGPT
+② 議事録作成 → Claude
+③ データ集計 → ChatGPT + Python
+④ 資料作成 → Gamma AI
+⑤ スケジュール管理 → Notion AI
+
+全部合わせて月額5,000円以下です
+
+#業務効率化 #AI活用 #仕事術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Tue, 06 Oct 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">0388a3cf98f98e437a1627016ca225a1</guid>
+    </item>
     <item>
       <title>Make Gmail連携やり方｜特定メール受信をNotionに自動記録する手順</title>
       <description>📝 Make Gmail連携やり方｜特定メール受信をNotionに自動記録する手順
@@ -152,22 +169,6 @@ https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン
       <link>https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン節約コスト最適化の設定手順2026/</link>
       <pubDate>Fri, 02 Oct 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">943cec6fb155c2f1c52d73e43411f904</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>請求書作成、まだ手入力ですか？
-
-スプレッドシート×ChatGPT APIを連携すれば
-・項目入力→自動で文面生成
-・番号も自動採番
-・インボイス対応も漏れなし
-
-月末の憂鬱な作業が10分で終わります
-
-#業務自動化 #ChatGPT</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Thu, 01 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">a8b682d8be6593c6442d1e5fa5f62ad8</guid>
     </item>
   </channel>
 </rss>
