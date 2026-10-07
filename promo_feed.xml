@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>「AIに何を聞けばいいかわからない…」
+
+ビジネスメール・企画書・データ分析・プログラミングなど8分野のプロンプト50選をまとめました
+
+コピペして変数を埋めるだけで即使える実践的テンプレート集です
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Wed, 07 Oct 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">3c4748ca4a6fa7bde739376e067525b8</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIで業務時間を50%削減した方法
@@ -156,19 +171,6 @@ OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 02 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">df2a112d39c50b4185048a498ad70b40</guid>
-    </item>
-    <item>
-      <title>Claude API料金削減やり方｜トークン節約・コスト最適化の設定手順2026</title>
-      <description>📝 Claude API料金削減やり方｜トークン節約・コスト最適化の設定手順2026
-
-Claude APIのコストを最大90%削減する具体手順を解説。Prompt Caching・Batch API・モデル使い分けを実装コード付きで紹介。今日から
-
-https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン節約コスト最適化の設定手順2026/
-
-#AIツール比較 #Claude</description>
-      <link>https://ai-jissen-lab.com/2026/06/23/Claude-API料金削減やり方トークン節約コスト最適化の設定手順2026/</link>
-      <pubDate>Fri, 02 Oct 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">943cec6fb155c2f1c52d73e43411f904</guid>
     </item>
   </channel>
 </rss>
