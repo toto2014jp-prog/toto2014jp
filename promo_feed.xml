@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion AI 仕事で使う方法｜議事録・タスク・文書をプロンプトで自動化</title>
+      <description>🔍 Notion AIを仕事で使う日本語プロンプト集を公開。議事録の自動作成・タスク管理・提案書作成まで実務ですぐ使えるテンプレ付き。ChatGPTとの違いや料金も解説。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/22/Notion-AI-仕事で使う方法議事録タスク文書をプロンプトで自動化/
+
+#AI #ChatGPT</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/Notion-AI-仕事で使う方法議事録タスク文書をプロンプトで自動化/</link>
+      <pubDate>Thu, 08 Oct 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">1d5199cd8fece757271da1d1add090ca</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】無料で使えるAIツール5選
@@ -154,22 +166,6 @@ AIは“壁打ち相手”として使うと化けます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 03 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">5399f5da4d858382b3ba4fbcf441723a</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>AIでブログ記事を書く時代
-
-でも「AIに丸投げ」だとGoogleに評価されません
-
-人間の経験×AIの効率＝最強のブログ運営
-
-そのやり方を8ステップで解説👇
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ運営 #SEO #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Sat, 03 Oct 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">e6a631cd1c20c892d62cd6648a11417e</guid>
     </item>
   </channel>
 </rss>
