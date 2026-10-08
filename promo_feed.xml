@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに仕事を奪われる」と心配してる人へ
+
+AIは道具です
+
+Excelが登場した時「電卓の仕事が奪われる」と言われましたが、実際はExcelを使える人の価値が上がりました
+
+AIも同じ。使いこなす人が勝ちます
+
+#AI #キャリア #仕事術</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 08 Oct 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">6b2e77d5109187d50cfc132891c9e6c3</guid>
+    </item>
     <item>
       <title>Notion AI 仕事で使う方法｜議事録・タスク・文書をプロンプトで自動化</title>
       <description>🔍 Notion AIを仕事で使う日本語プロンプト集を公開。議事録の自動作成・タスク管理・提案書作成まで実務ですぐ使えるテンプレ付き。ChatGPTとの違いや料金も解説。
@@ -146,26 +161,6 @@ https://ai-jissen-lab.com/2026/06/02/MakeGoogleスプレッドシート連携や
       <link>https://ai-jissen-lab.com/2026/06/02/MakeGoogleスプレッドシート連携やり方フォーム回答を自動追記する手順2026/</link>
       <pubDate>Sun, 04 Oct 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">6f338815ee9b28c9ede1c8f79d0079b4</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>毎日AIを触って分かった、伸びる人の使い方
-
-❌ 1回の質問で完璧を求める
-⭕ 対話で一緒に育てる
-
-❌ 丸投げする
-⭕ 前提と条件を渡す
-
-❌ 出力をそのまま使う
-⭕ 「もっと良くして」を繰り返す
-
-AIは“壁打ち相手”として使うと化けます
-
-#AI活用 #仕事術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 03 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">5399f5da4d858382b3ba4fbcf441723a</guid>
     </item>
   </channel>
 </rss>
