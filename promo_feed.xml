@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:10:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:11:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Claude API連携やり方｜シナリオにAI文章生成ステップを追加する手順</title>
+      <description>🔍 MakeシナリオにClaude APIをHTTPモジュールで繋ぐ手順を解説。APIキー・必須ヘッダー・レスポンスのパース方法まで、エラーなく動く最小構成をコピペで確認できます。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/31/Make-Claude-API連携やり方シナリオにAI文章生成ステップを追加する手順/
+
+#AI #Claude</description>
+      <link>https://ai-jissen-lab.com/2026/05/31/Make-Claude-API連携やり方シナリオにAI文章生成ステップを追加する手順/</link>
+      <pubDate>Sun, 11 Oct 2026 13:11:02 +0900</pubDate>
+      <guid isPermaLink="false">a42a73582a85aeb78b5b5e75d762eab4</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTの「カスタム指示」使ってますか？
@@ -146,23 +158,6 @@ https://ai-jissen-lab.com/2026/06/01/Make-Gmail連携やり方特定メール受
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 05 Oct 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">e30c402cd2f9e74b3fa00b6f14b43b96</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>「自動化したいけどコードが書けない」
-→ それ、コピペで解決します
-
-📋 API設定手順を画像付きで解説
-📋 動くGAS・Pythonコードを全文掲載
-📋 メール・議事録・請求書のテンプレ多数
-
-¥1,480で即ダウンロード
-https://aijissenlab.gumroad.com/l/irvscs
-
-#業務効率化 #AI活用</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Mon, 05 Oct 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">1d8a52ca1ba9e493bcc9b75a6711a115</guid>
     </item>
   </channel>
 </rss>
