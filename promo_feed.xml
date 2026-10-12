@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:11:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:54:45 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>2026年、AIで稼いでる人の共通点
+
+① 毎日AIを触っている
+② 1つの分野に特化している
+③ アウトプットし続けている
+④ 失敗を恐れない
+⑤ 情報収集を怠らない
+
+センスじゃなく「習慣」の差です
+
+#AI副業 #副業 #マインドセット</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 12 Oct 2026 14:54:45 +0900</pubDate>
+      <guid isPermaLink="false">d6cf9860bc75bd4fdbdc2d7a84265085</guid>
+    </item>
     <item>
       <title>Make Claude API連携やり方｜シナリオにAI文章生成ステップを追加する手順</title>
       <description>🔍 MakeシナリオにClaude APIをHTTPモジュールで繋ぐ手順を解説。APIキー・必須ヘッダー・レスポンスのパース方法まで、エラーなく動く最小構成をコピペで確認できます。
@@ -141,23 +158,6 @@ https://ai-jissen-lab.com/2026/06/01/Make-Gmail連携やり方特定メール受
       <link>https://ai-jissen-lab.com/2026/06/01/Make-Gmail連携やり方特定メール受信をNotionに自動記録する手順/</link>
       <pubDate>Tue, 06 Oct 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">90b1c18280c8e31f7ea70909da018300</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
-
-私の使い分け👇
-・長文の要約・分析 → Claude
-・アイデア出し・雑談 → ChatGPT
-・画像生成 → ChatGPT
-・コーディング → Claude
-
-皆さんはどう使い分けてますか？
-
-#AI #ChatGPT #Claude</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Mon, 05 Oct 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">e30c402cd2f9e74b3fa00b6f14b43b96</guid>
     </item>
   </channel>
 </rss>
