@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:54:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor Rules設定やり方2026｜.mdc形式・テンプレ・プロジェクト別手順</title>
+      <description>🔍 Cursor Rulesの2026年最新設定法を解説。旧.cursorrules→新.mdc形式への移行手順、React・Python・API別テンプレ、Git共有運用まで即使える
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/06/26/Cursor-Rules設定やり方2026mdc形式テンプレプロジェクト別手順/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/26/Cursor-Rules設定やり方2026mdc形式テンプレプロジェクト別手順/</link>
+      <pubDate>Fri, 16 Oct 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">3162052bd17b48f9d05e696afe9a962c</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Excelの作業、まだ手動でやってますか？
@@ -146,21 +158,6 @@ https://ai-jissen-lab.com/2026/05/22/Notion-AI-仕事で使う方法議事録タ
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 07 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">9fd75ab24ab3930d6dfef2b7d945c5fa</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>「AIに何を聞けばいいかわからない…」
-
-ビジネスメール・企画書・データ分析・プログラミングなど8分野のプロンプト50選をまとめました
-
-コピペして変数を埋めるだけで即使える実践的テンプレート集です
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI #業務効率化</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Wed, 07 Oct 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">3c4748ca4a6fa7bde739376e067525b8</guid>
     </item>
   </channel>
 </rss>
