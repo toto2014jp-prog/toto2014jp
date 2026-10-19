@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
+
+👉「この回答を自己評価して、改善版を出して」
+
+たったこれだけ。AIが自分でダメ出しして書き直してくれます
+
+知ってるだけで差がつくテクニックです
+
+#ChatGPT活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Mon, 19 Oct 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">0da9ef8d0c7ae8f99bb5746869a529a1</guid>
+    </item>
     <item>
       <title>Cursor GAS自動生成やり方｜カレンダー予定登録スクリプトをAIで作る手順2026</title>
       <description>🔍 CursorでGoogle Apps Scriptを自動生成し、スプレッドシートからGoogleカレンダーへ予定を一括登録する手順を解説。プロンプト例・動くコード・エラー対処付き。
@@ -145,22 +160,6 @@ https://ai-jissen-lab.com/2026/05/31/Make-Claude-API連携やり方シナリオ�
       <link>https://ai-jissen-lab.com/2026/05/31/Make-Claude-API連携やり方シナリオにAI文章生成ステップを追加する手順/</link>
       <pubDate>Sun, 11 Oct 2026 13:11:02 +0900</pubDate>
       <guid isPermaLink="false">a42a73582a85aeb78b5b5e75d762eab4</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTの「カスタム指示」使ってますか？
-
-設定するだけで毎回の回答精度が爆上がりします
-
-例:
-「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
-
-たった1分の設定で効果絶大💡
-
-#ChatGPT #AI活用術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Fri, 09 Oct 2026 23:10:06 +0900</pubDate>
-      <guid isPermaLink="false">a93c1c4697bd617fd71e3afed754c466</guid>
     </item>
   </channel>
 </rss>
