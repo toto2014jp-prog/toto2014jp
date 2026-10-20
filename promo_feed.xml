@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion AI×ChatGPT連携のやり方｜Zapierなし自動化4選</title>
+      <description>📝 Notion AI×ChatGPT連携のやり方｜Zapierなし自動化4選
+
+NotionとChatGPTをZapierなしで連携する方法を初心者向けに解説。Custom GPT・n8n・Make・Notionボタン機能を使った自動化4パ
+
+https://ai-jissen-lab.com/2026/05/22/Notion-AIChatGPT連携のやり方Zapierなし自動化4選/
+
+#AI #ChatGPT #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/Notion-AIChatGPT連携のやり方Zapierなし自動化4選/</link>
+      <pubDate>Tue, 20 Oct 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">12c49c4becb2f20e104e2bfac20d7809</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIツール、結局どれ使えばいいの？という人へ
@@ -145,24 +158,6 @@ ChatGPTに「このデータを○○形式に変換して」と頼むだけで�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 14 Oct 2026 14:54:51 +0900</pubDate>
       <guid isPermaLink="false">51fd6b5638adb125ad8b0bab6fb58785</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
-
-① ジャンル選定
-② WordPress初期設定
-③ AI記事作成
-④ SEO対策
-⑤ 収益化設定
-
-全部まとめた1冊です📖
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ初心者 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Tue, 13 Oct 2026 14:55:05 +0900</pubDate>
-      <guid isPermaLink="false">858aeb1d6fcd914293b20cf80494bc84</guid>
     </item>
   </channel>
 </rss>
