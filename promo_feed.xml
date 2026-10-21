@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
+
+7フェーズ・100項目超のチェックリストで迷わず進めます
+
+✅ マインドセットから収益化まで網羅
+✅ チェックボックスで進捗管理
+✅ おすすめツール早見表付き
+
+¥980
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Wed, 21 Oct 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">ffeb09599cae019fcfe8e34d639e8890</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】ChatGPTの精度が上がる5つの型
@@ -150,18 +168,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 17 Oct 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">0753876c46e811634dd62a261cacfe73</guid>
-    </item>
-    <item>
-      <title>Cursor Rules設定やり方2026｜.mdc形式・テンプレ・プロジェクト別手順</title>
-      <description>🔍 Cursor Rulesの2026年最新設定法を解説。旧.cursorrules→新.mdc形式への移行手順、React・Python・API別テンプレ、Git共有運用まで即使える
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/26/Cursor-Rules設定やり方2026mdc形式テンプレプロジェクト別手順/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/26/Cursor-Rules設定やり方2026mdc形式テンプレプロジェクト別手順/</link>
-      <pubDate>Fri, 16 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">3162052bd17b48f9d05e696afe9a962c</guid>
     </item>
   </channel>
 </rss>
