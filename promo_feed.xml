@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:37:29 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n エラー対処やり方｜ワークフロー失敗時のデバッグ・再実行手順2026</title>
+      <description>💡 n8n エラー対処やり方｜ワークフロー失敗時のデバッグ・再実行手順2026
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/06/10/n8n-エラー対処やり方ワークフロー失敗時のデバッグ再実行手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/10/n8n-エラー対処やり方ワークフロー失敗時のデバッグ再実行手順2026/</link>
+      <pubDate>Fri, 23 Oct 2026 11:37:27 +0900</pubDate>
+      <guid isPermaLink="false">3c7ede116f9aa1a287e2e129d11d0078</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>請求書作成、まだ手入力ですか？
@@ -150,23 +162,6 @@ https://ai-jissen-lab.com/2026/06/15/Cursor-GAS自動生成やり方カレンダ
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sun, 18 Oct 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">3cdd3867a3b2f13d28af4803db8469e1</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
-
-そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
-
-✅ スプレッドシート連携
-✅ メール・議事録・請求書の自動化
-
-¥1,480
-https://aijissenlab.gumroad.com/l/irvscs
-
-#ChatGPT #業務効率化</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Sat, 17 Oct 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">e0c360d8e2cb9ac8e386b9062364bc75</guid>
     </item>
   </channel>
 </rss>
