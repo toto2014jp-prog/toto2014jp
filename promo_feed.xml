@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:37:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:39:04 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIを使ってブログで月1万円稼ぎたい方へ
+
+ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
+
+✅ すぐ使えるAIプロンプト8種収録
+✅ WordPress設定チェックリスト付き
+✅ 収益モデル例も掲載
+
+¥980で始められます
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ #AI活用 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Sat, 24 Oct 2026 15:39:04 +0900</pubDate>
+      <guid isPermaLink="false">51a8a6afc0ad9053ce8a72d212d1671d</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -152,18 +170,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 19 Oct 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">0da9ef8d0c7ae8f99bb5746869a529a1</guid>
-    </item>
-    <item>
-      <title>Cursor GAS自動生成やり方｜カレンダー予定登録スクリプトをAIで作る手順2026</title>
-      <description>🔍 CursorでGoogle Apps Scriptを自動生成し、スプレッドシートからGoogleカレンダーへ予定を一括登録する手順を解説。プロンプト例・動くコード・エラー対処付き。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/06/15/Cursor-GAS自動生成やり方カレンダー予定登録スクリプトをAIで作る手順2026/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/06/15/Cursor-GAS自動生成やり方カレンダー予定登録スクリプトをAIで作る手順2026/</link>
-      <pubDate>Sun, 18 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">607a02bab1ffb3777d9f3f0dbd00721d</guid>
     </item>
   </channel>
 </rss>
