@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:38:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:41:31 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT APIキー取得と使い方｜料金・無料枠・初心者のつまずき解説</title>
+      <description>💡 ChatGPT APIキー取得と使い方｜料金・無料枠・初心者のつまずき解説
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIキー取得と使い方料金無料枠初心者のつまずき解説/
+
+#AI #AIツール比較 #ChatGPT</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIキー取得と使い方料金無料枠初心者のつまずき解説/</link>
+      <pubDate>Mon, 26 Oct 2026 15:41:31 +0900</pubDate>
+      <guid isPermaLink="false">aeaf74ba7ccc91dc593248b3ca1816ae</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>毎日AIを触って分かった、伸びる人の使い方
@@ -161,20 +173,6 @@ https://ai-jissen-lab.com/2026/05/22/Notion-AIChatGPT連携のやり方Zapierな
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 20 Oct 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">fedee17a82980980e7f3cea71af6a697</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>AIプロンプト集50選（¥980）
-
-仕事で使えるChatGPT＆Claudeのテンプレート集を販売中です
-全24ページ、8カテゴリ、すぐ使えます
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#ChatGPT #Claude #AI活用術</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Mon, 19 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">86e28d574f8dc647567eaa9f292fbf8d</guid>
     </item>
   </channel>
 </rss>
