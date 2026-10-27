@@ -8,8 +8,22 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:39:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>議事録・請求書・メール作成に毎日時間を奪われていませんか？
+
+ChatGPT APIとスプレッドシートを連携すれば、これ全部自動化できます
+
+コピペで動くGASコードと手順を全22ページにまとめました👇
+https://aijissenlab.gumroad.com/l/irvscs
+
+#業務自動化 #GAS</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Tue, 27 Oct 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">fabb0dd38fbf4bb334313e35341001d6</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存推奨】ChatGPTを使う時の5つのコツ
@@ -159,19 +173,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 21 Oct 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">03a08aa339b286f88bb5770a91ce8414</guid>
-    </item>
-    <item>
-      <title>Notion AI×ChatGPT連携のやり方｜Zapierなし自動化4選</title>
-      <description>📝 Notion AI×ChatGPT連携のやり方｜Zapierなし自動化4選
-
-NotionとChatGPTをZapierなしで連携する方法を初心者向けに解説。Custom GPT・n8n・Make・Notionボタン機能を使った自動化4パ
-
-https://ai-jissen-lab.com/2026/05/22/Notion-AIChatGPT連携のやり方Zapierなし自動化4選/
-
-#AI #ChatGPT #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/Notion-AIChatGPT連携のやり方Zapierなし自動化4選/</link>
-      <pubDate>Tue, 20 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">12c49c4becb2f20e104e2bfac20d7809</guid>
     </item>
   </channel>
 </rss>
