@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:30:03 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI議事録・請求書を自動作成する方法｜コピペ用プロンプト5選</title>
+      <description>🔍 ChatGPTで議事録・請求書を今日から自動作成する方法を解説。コピペで使えるプロンプト5選＋インボイス対応チェックリスト付き。音声→議事録まで使えるツール選定ガイドも収録。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する方法コピペ用プロンプト5選/
+
+#AI #ChatGPT #業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する方法コピペ用プロンプト5選/</link>
+      <pubDate>Wed, 28 Oct 2026 12:30:03 +0900</pubDate>
+      <guid isPermaLink="false">09e869ce79fb15ea6057ef998ad8f6c3</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
@@ -153,24 +165,6 @@ https://ai-jissen-lab.com/2026/06/10/n8n-エラー対処やり方ワークフロ
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 22 Oct 2026 15:38:30 +0900</pubDate>
       <guid isPermaLink="false">085e10a603ccea01598bdb9783ae17d2</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
-
-7フェーズ・100項目超のチェックリストで迷わず進めます
-
-✅ マインドセットから収益化まで網羅
-✅ チェックボックスで進捗管理
-✅ おすすめツール早見表付き
-
-¥980
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Wed, 21 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">ffeb09599cae019fcfe8e34d639e8890</guid>
     </item>
   </channel>
 </rss>
