@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「副業したいけど何から始めれば…」
+
+AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
+
+法的確認からツール選びまで、上から順にチェックしていくだけでOK
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #会社員副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Sat, 31 Oct 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">09d8f7a55e0053e555df96ae08b7dbad</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -145,18 +160,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 27 Oct 2026 07:39:47 +0900</pubDate>
       <guid isPermaLink="false">30e3ddfd0f63cfcd5634be4a00945198</guid>
-    </item>
-    <item>
-      <title>ChatGPT APIキー取得と使い方｜料金・無料枠・初心者のつまずき解説</title>
-      <description>💡 ChatGPT APIキー取得と使い方｜料金・無料枠・初心者のつまずき解説
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIキー取得と使い方料金無料枠初心者のつまずき解説/
-
-#AI #AIツール比較 #ChatGPT</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIキー取得と使い方料金無料枠初心者のつまずき解説/</link>
-      <pubDate>Mon, 26 Oct 2026 15:41:31 +0900</pubDate>
-      <guid isPermaLink="false">aeaf74ba7ccc91dc593248b3ca1816ae</guid>
     </item>
   </channel>
 </rss>
