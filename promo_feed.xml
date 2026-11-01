@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>2026年、AIで稼いでる人の共通点
+
+① 毎日AIを触っている
+② 1つの分野に特化している
+③ アウトプットし続けている
+④ 失敗を恐れない
+⑤ 情報収集を怠らない
+
+センスじゃなく「習慣」の差です
+
+#AI副業 #副業 #マインドセット</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sun, 01 Nov 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">5ed53021dc1b4a2f9b0e52314875d6ac</guid>
+    </item>
     <item>
       <title>Notion AI 使い方入門｜日本語設定・議事録自動化・ChatGPTとの違い</title>
       <description>📝 Notion AI 使い方入門｜日本語設定・議事録自動化・ChatGPTとの違い
@@ -141,23 +158,6 @@ https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する�
       <link>https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する方法コピペ用プロンプト5選/</link>
       <pubDate>Wed, 28 Oct 2026 12:30:03 +0900</pubDate>
       <guid isPermaLink="false">09e869ce79fb15ea6057ef998ad8f6c3</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
-
-私の使い分け👇
-・長文の要約・分析 → Claude
-・アイデア出し・雑談 → ChatGPT
-・画像生成 → ChatGPT
-・コーディング → Claude
-
-皆さんはどう使い分けてますか？
-
-#AI #ChatGPT #Claude</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Tue, 27 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">cc90c359ea892cb196175a4cfb104ec7</guid>
     </item>
   </channel>
 </rss>
