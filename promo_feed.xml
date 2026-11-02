@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>「ブログを始めたいけどネタがない…」
+
+AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
+
+月1万円達成までのロードマップを1冊にまとめた完全ガイド
+初心者でも迷わず進められます
+
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #AIライティング</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Mon, 02 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">73d2ff97836761cea0f2a97320970246</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -146,18 +162,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 28 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">46b92ef2ca5e77bc9f443d2f52262afe</guid>
-    </item>
-    <item>
-      <title>AI議事録・請求書を自動作成する方法｜コピペ用プロンプト5選</title>
-      <description>🔍 ChatGPTで議事録・請求書を今日から自動作成する方法を解説。コピペで使えるプロンプト5選＋インボイス対応チェックリスト付き。音声→議事録まで使えるツール選定ガイドも収録。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する方法コピペ用プロンプト5選/
-
-#AI #ChatGPT #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/21/AI議事録請求書を自動作成する方法コピペ用プロンプト5選/</link>
-      <pubDate>Wed, 28 Oct 2026 12:30:03 +0900</pubDate>
-      <guid isPermaLink="false">09e869ce79fb15ea6057ef998ad8f6c3</guid>
     </item>
   </channel>
 </rss>
