@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存版】議事録が5分で終わるプロンプト
+
+これをコピペするだけ👇
+
+「以下の会議メモを①決定事項②ToDo（担当者・期限）③未解決の論点 に整理して。箇条書きで簡潔に」
+
+あとは会議メモを貼るだけ。手書きの殴り書きでもOKです
+
+保存して次の会議で使ってみてください
+
+#ChatGPT #業務効率化</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Tue, 03 Nov 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">cd07a7be567944841164c9386aefa681</guid>
+    </item>
     <item>
       <title>Cursor AI 初心者の始め方｜未経験でも使えるコード補完・自動修正入門</title>
       <description>💡 Cursor AI 初心者の始め方｜未経験でも使えるコード補完・自動修正入門
@@ -140,23 +157,6 @@ https://ai-jissen-lab.com/2026/05/25/Perplexity-AIプロンプトの書き方Cha
       <link>https://ai-jissen-lab.com/2026/05/25/Perplexity-AIプロンプトの書き方ChatGPTと違う質問テクニック7選/</link>
       <pubDate>Fri, 30 Oct 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">3f064c1ce2f2ed78ad87b71d7d36e55a</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【知らないと損】無料で使えるAIツール5選
-
-1. ChatGPT（無料版でも十分）
-2. Claude（毎日無料で使える）
-3. Perplexity（AI検索）
-4. Canva AI（デザイン）
-5. DeepL（翻訳）
-
-全部0円で始められます
-
-#AI #無料ツール #おすすめ</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Thu, 29 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">57bfbb94cdf0718a70666dc490864063</guid>
     </item>
   </channel>
 </rss>
