@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>ChatGPT業務自動化 実践テンプレート集（¥1,480）
+
+プロンプト集の一歩先へ。
+「動くコード」で定型業務を自動化する実装ガイドです
+
+・API基礎セットアップ
+・スプレッドシート連携
+・ワークフロー実例3選
+
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT活用 #自動化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Wed, 04 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">a1d72fe802eeee26b7f2937fefc396b1</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存版】議事録が5分で終わるプロンプト
@@ -145,18 +163,6 @@ AIも同じ。使いこなす人が勝ちます
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 30 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">6bdead8cc05b903a45ab63968011a146</guid>
-    </item>
-    <item>
-      <title>Perplexity AIプロンプトの書き方｜ChatGPTと違う質問テクニック7選</title>
-      <description>🔍 ChatGPTのプロンプト術がPerplexityで逆効果になる理由を解説。Focus機能の選び方・時間軸指定・比較クエリなど、検索型AIに特化した質問テクニック7選を紹介。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/25/Perplexity-AIプロンプトの書き方ChatGPTと違う質問テクニック7選/
-
-#AI #ChatGPT</description>
-      <link>https://ai-jissen-lab.com/2026/05/25/Perplexity-AIプロンプトの書き方ChatGPTと違う質問テクニック7選/</link>
-      <pubDate>Fri, 30 Oct 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">3f064c1ce2f2ed78ad87b71d7d36e55a</guid>
     </item>
   </channel>
 </rss>
