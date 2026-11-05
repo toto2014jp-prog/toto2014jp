@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026</title>
+      <description>📝 n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026
+
+n8n Schedule Triggerで毎朝SlackにレポートをCron式で自動送信する手順を解説。タイムゾーン9時間ズレ・チャンネルID指定・Catchu
+
+https://ai-jissen-lab.com/2026/06/13/n8n-Schedule-トリガー-Slack-定期通知やり方毎朝レポート自動送信の設定手順2026/
+
+#業務自動化</description>
+      <link>https://ai-jissen-lab.com/2026/06/13/n8n-Schedule-トリガー-Slack-定期通知やり方毎朝レポート自動送信の設定手順2026/</link>
+      <pubDate>Thu, 05 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">f657f23804ae36c05b04542b718f55b3</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【コピペOK】返信に困るメールへの神プロンプト
@@ -149,21 +162,6 @@ https://ai-jissen-lab.com/2026/05/25/Notion-AI-使い方入門日本語設定議
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 31 Oct 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">f9d191b44668778303055633a316742a</guid>
-    </item>
-    <item>
-      <title>AI副業スタートアップ完全チェックリスト</title>
-      <description>「副業したいけど何から始めれば…」
-
-AIを使った副業の始め方を7フェーズに分けて100項目超のチェックリストにまとめました
-
-法的確認からツール選びまで、上から順にチェックしていくだけでOK
-
-https://aijissenlab.gumroad.com/l/tokndw
-
-#AI副業 #会社員副業</description>
-      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
-      <pubDate>Sat, 31 Oct 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">09d8f7a55e0053e555df96ae08b7dbad</guid>
     </item>
   </channel>
 </rss>
