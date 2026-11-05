@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
+
+👉「この回答を自己評価して、改善版を出して」
+
+たったこれだけ。AIが自分でダメ出しして書き直してくれます
+
+知ってるだけで差がつくテクニックです
+
+#ChatGPT活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 05 Nov 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">806925aa117fc2163a4a187e4a69fd72</guid>
+    </item>
     <item>
       <title>n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026</title>
       <description>📝 n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026
@@ -146,22 +161,6 @@ https://ai-jissen-lab.com/2026/05/25/Notion-AI-使い方入門日本語設定議
       <link>https://ai-jissen-lab.com/2026/05/25/Notion-AI-使い方入門日本語設定議事録自動化ChatGPTとの違い/</link>
       <pubDate>Sun, 01 Nov 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">6951dfff2ff3bff1e8b85062fe57965f</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>ChatGPTの「カスタム指示」使ってますか？
-
-設定するだけで毎回の回答精度が爆上がりします
-
-例:
-「私はWebマーケターです。回答は具体的な数字を含め、箇条書きで簡潔にお願いします」
-
-たった1分の設定で効果絶大💡
-
-#ChatGPT #AI活用術</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 31 Oct 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">f9d191b44668778303055633a316742a</guid>
     </item>
   </channel>
 </rss>
