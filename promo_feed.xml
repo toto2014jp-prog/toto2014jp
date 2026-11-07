@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perplexity Pro課金は必要か｜無料との機能差・月額料金で判定</title>
+      <description>🔍 Perplexity AI Proの月額$20は元が取れるか？無料プランとの機能差をPro Search回数・モデル選択・Deep Researchの実数値で比較。課金すべき人・不
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/24/Perplexity-Pro課金は必要か無料との機能差月額料金で判定/
+
+#AI #AIツール比較</description>
+      <link>https://ai-jissen-lab.com/2026/05/24/Perplexity-Pro課金は必要か無料との機能差月額料金で判定/</link>
+      <pubDate>Sat, 07 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">a4e9c7cb3f6f7f84a22b7e7055d5c62a</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIツール、結局どれ使えばいいの？という人へ
@@ -149,22 +161,6 @@ ChatGPTに「このデータを○○形式に変換して」と頼むだけで�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 02 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">2fc2b8d7c77bc8bde5e5e72dfe325344</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>「ブログを始めたいけどネタがない…」
-
-AIを活用すれば記事のアイデア出しから執筆・SEOまで効率的にこなせます
-
-月1万円達成までのロードマップを1冊にまとめた完全ガイド
-初心者でも迷わず進められます
-
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ初心者 #AIライティング</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Mon, 02 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">73d2ff97836761cea0f2a97320970246</guid>
     </item>
   </channel>
 </rss>
