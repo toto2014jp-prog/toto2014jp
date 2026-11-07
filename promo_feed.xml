@@ -8,8 +8,27 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【知らないと損】ChatGPTの精度が上がる5つの型
+
+① 役割を与える
+② 前提条件を渡す
+③ 出力形式を指定
+④ 例を1つ見せる
+⑤ 段階的に聞く
+
+この5つを意識するだけで「使えないAI」が「優秀な部下」に変わります
+
+保存推奨📌
+
+#プロンプト #ChatGPT</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 07 Nov 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">fa7a09bde06aafad7a7619284f5418dd</guid>
+    </item>
     <item>
       <title>Perplexity Pro課金は必要か｜無料との機能差・月額料金で判定</title>
       <description>🔍 Perplexity AI Proの月額$20は元が取れるか？無料プランとの機能差をPro Search回数・モデル選択・Deep Researchの実数値で比較。課金すべき人・不
@@ -146,21 +165,6 @@ https://ai-jissen-lab.com/2026/05/23/Cursor-AI-初心者の始め方未経験で
       <link>https://ai-jissen-lab.com/2026/05/23/Cursor-AI-初心者の始め方未経験でも使えるコード補完自動修正入門/</link>
       <pubDate>Tue, 03 Nov 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">67f36b9aff83d70aebd1d6e30a2591a6</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Excelの作業、まだ手動でやってますか？
-
-ChatGPTに「このデータを○○形式に変換して」と頼むだけで、マクロを書いてくれます
-
-・VLOOKUP地獄から解放
-・ピボットテーブルも一瞬
-・グラフ作成まで自動
-
-#Excel #ChatGPT #業務効率化</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Mon, 02 Nov 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">2fc2b8d7c77bc8bde5e5e72dfe325344</guid>
     </item>
   </channel>
 </rss>
