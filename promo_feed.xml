@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude APIキー取得の手順と料金｜GPT-4oコスト比較・無料枠の実態も解説</title>
+      <description>🔍 Claude APIキーの取得手順を5ステップで解説。無料枠$5の実態・モデル別料金表・GPT-4oとのトークン単価比較まで、初心者が躓くポイントを正直に伝えます。
+
+詳しくはこちら👇
+https://ai-jissen-lab.com/2026/05/22/Claude-APIキー取得の手順と料金GPT-4oコスト比較無料枠の実態も解説/
+
+#AIツール比較 #ChatGPT #Claude</description>
+      <link>https://ai-jissen-lab.com/2026/05/22/Claude-APIキー取得の手順と料金GPT-4oコスト比較無料枠の実態も解説/</link>
+      <pubDate>Mon, 09 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">337354835215cc30543c72dd18647c52</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>請求書作成、まだ手入力ですか？
@@ -154,24 +166,6 @@ https://ai-jissen-lab.com/2026/06/13/n8n-Schedule-トリガー-Slack-定期通�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 04 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">3daf4d5640ca16000d305e57bccbd891</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>ChatGPT業務自動化 実践テンプレート集（¥1,480）
-
-プロンプト集の一歩先へ。
-「動くコード」で定型業務を自動化する実装ガイドです
-
-・API基礎セットアップ
-・スプレッドシート連携
-・ワークフロー実例3選
-
-https://aijissenlab.gumroad.com/l/irvscs
-
-#ChatGPT活用 #自動化</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Wed, 04 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">a1d72fe802eeee26b7f2937fefc396b1</guid>
     </item>
   </channel>
 </rss>
