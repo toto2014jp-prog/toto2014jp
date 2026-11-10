@@ -8,8 +8,24 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIでブログ記事を書く時代
+
+でも「AIに丸投げ」だとGoogleに評価されません
+
+人間の経験×AIの効率＝最強のブログ運営
+
+そのやり方を8ステップで解説👇
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ運営 #SEO #AI活用</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Tue, 10 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">e1826ba9b1dc71d633fa439c1384599d</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -155,19 +171,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 05 Nov 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">806925aa117fc2163a4a187e4a69fd72</guid>
-    </item>
-    <item>
-      <title>n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026</title>
-      <description>📝 n8n Schedule トリガー Slack 定期通知やり方｜毎朝レポート自動送信の設定手順2026
-
-n8n Schedule Triggerで毎朝SlackにレポートをCron式で自動送信する手順を解説。タイムゾーン9時間ズレ・チャンネルID指定・Catchu
-
-https://ai-jissen-lab.com/2026/06/13/n8n-Schedule-トリガー-Slack-定期通知やり方毎朝レポート自動送信の設定手順2026/
-
-#業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/06/13/n8n-Schedule-トリガー-Slack-定期通知やり方毎朝レポート自動送信の設定手順2026/</link>
-      <pubDate>Thu, 05 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">f657f23804ae36c05b04542b718f55b3</guid>
     </item>
   </channel>
 </rss>
