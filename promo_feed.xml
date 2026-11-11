@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存推奨】ChatGPTを使う時の5つのコツ
+
+① 役割を与える（「あなたはプロの編集者です」）
+② 具体的な条件を指定する
+③ 出力形式を決める
+④ 段階的に聞く
+⑤ 「なぜ？」を追加する
+
+これだけで回答の質が劇的に変わります
+
+#ChatGPT #AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Wed, 11 Nov 2026 20:30:01 +0900</pubDate>
+      <guid isPermaLink="false">48507ba7480df6b7ee48034fca9c2523</guid>
+    </item>
     <item>
       <title>Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論</title>
       <description>💡 Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論
@@ -154,24 +171,6 @@ https://ai-jissen-lab.com/2026/05/24/Perplexity-Pro課金は必要か無料と�
       <link>https://ai-jissen-lab.com/2026/05/24/Perplexity-Pro課金は必要か無料との機能差月額料金で判定/</link>
       <pubDate>Sat, 07 Nov 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">a4e9c7cb3f6f7f84a22b7e7055d5c62a</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>AIツール、結局どれ使えばいいの？という人へ
-
-用途別の正解👇
-・文章/要約 → Claude
-・検索/最新情報 → Perplexity
-・画像 → ChatGPT(DALL-E)
-・コード → Claude
-・資料作成 → Gamma
-
-全部無料枠あり。まず触るのが一番です
-
-#AI活用 #AIツール</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Fri, 06 Nov 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">86257281e9568afb5d3fac63c3198b23</guid>
     </item>
   </channel>
 </rss>
