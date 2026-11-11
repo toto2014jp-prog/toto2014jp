@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論</title>
+      <description>💡 Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/06/01/Cursor-vs-Windsurf-どっちがいい非エンジニアが実務で使い比べた2026年の結論/
+
+#AI</description>
+      <link>https://ai-jissen-lab.com/2026/06/01/Cursor-vs-Windsurf-どっちがいい非エンジニアが実務で使い比べた2026年の結論/</link>
+      <pubDate>Wed, 11 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">8f0064d4004e463b58495a26bffb53d0</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>毎日AIを触って分かった、伸びる人の使い方
@@ -160,22 +172,6 @@ https://ai-jissen-lab.com/2026/05/24/Perplexity-Pro課金は必要か無料と�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 06 Nov 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">86257281e9568afb5d3fac63c3198b23</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>「プロンプトの書き方がわからない」
-→ それ、テンプレートで解決します
-
-📋 50のプロンプトをコピペするだけ
-📋 ChatGPT / Claude / Gemini全対応
-📋 ¥980で即ダウンロード
-
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI初心者 #プロンプト</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Fri, 06 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">5c34fb005bd373d9a002bbc21137e9d3</guid>
     </item>
   </channel>
 </rss>
