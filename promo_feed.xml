@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【知らないと損】無料で使えるAIツール5選
+
+1. ChatGPT（無料版でも十分）
+2. Claude（毎日無料で使える）
+3. Perplexity（AI検索）
+4. Canva AI（デザイン）
+5. DeepL（翻訳）
+
+全部0円で始められます
+
+#AI #無料ツール #おすすめ</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Sat, 14 Nov 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">078b2252deabf029e98dbb56f8cc4e78</guid>
+    </item>
     <item>
       <title>ChatGPT＆Claude AIプロンプト集50選</title>
       <description>💡 ChatGPTを使っていて「もっと良い回答がほしい」と思ったことありませんか？
@@ -152,24 +169,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
       <pubDate>Tue, 10 Nov 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">e1826ba9b1dc71d633fa439c1384599d</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>「AIに聞いても浅い答えしか返ってこない」
-
-原因は9割これ👇
-
-“前提を渡していない”
-
-NG:「マーケ施策を教えて」
-OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ、根拠付きで」
-
-具体性が9割です
-
-#AI活用 #プロンプト</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Mon, 09 Nov 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">624f9fe2b92fb66c4135d639f45f6955</guid>
     </item>
   </channel>
 </rss>
