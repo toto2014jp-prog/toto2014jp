@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>💡 ChatGPTを使っていて「もっと良い回答がほしい」と思ったことありませんか？
+
+プロが使う50のプロンプトテンプレートを公開中
+
+✅ 8カテゴリ完全網羅
+✅ コピペで即使用OK
+✅ ChatGPT / Claude / Gemini対応
+
+¥980で仕事が10倍速く
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI活用 #ChatGPT #プロンプト</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Sat, 14 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">51d18b9adfecd26180892d0a0273de3b</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIで業務時間を50%削減した方法
@@ -152,18 +170,6 @@ OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 09 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">624f9fe2b92fb66c4135d639f45f6955</guid>
-    </item>
-    <item>
-      <title>Claude APIキー取得の手順と料金｜GPT-4oコスト比較・無料枠の実態も解説</title>
-      <description>🔍 Claude APIキーの取得手順を5ステップで解説。無料枠$5の実態・モデル別料金表・GPT-4oとのトークン単価比較まで、初心者が躓くポイントを正直に伝えます。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/22/Claude-APIキー取得の手順と料金GPT-4oコスト比較無料枠の実態も解説/
-
-#AIツール比較 #ChatGPT #Claude</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/Claude-APIキー取得の手順と料金GPT-4oコスト比較無料枠の実態も解説/</link>
-      <pubDate>Mon, 09 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">337354835215cc30543c72dd18647c52</guid>
     </item>
   </channel>
 </rss>
