@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>「会社にバレずにAI副業を始めたい」
+
+法的確認・確定申告の注意点もカバーした副業チェックリスト
+
+上から順にチェックするだけで安心してスタートできます
+
+https://aijissenlab.gumroad.com/l/tokndw
+
+#会社員副業 #AI副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Mon, 16 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">bd496952f5d3901b9d1540cdd45ff53c</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに仕事を奪われる」と心配してる人へ
@@ -149,18 +164,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 11 Nov 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">48507ba7480df6b7ee48034fca9c2523</guid>
-    </item>
-    <item>
-      <title>Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論</title>
-      <description>💡 Cursor vs Windsurf どっちがいい？非エンジニアが実務で使い比べた2026年の結論
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/06/01/Cursor-vs-Windsurf-どっちがいい非エンジニアが実務で使い比べた2026年の結論/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/06/01/Cursor-vs-Windsurf-どっちがいい非エンジニアが実務で使い比べた2026年の結論/</link>
-      <pubDate>Wed, 11 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">8f0064d4004e463b58495a26bffb53d0</guid>
     </item>
   </channel>
 </rss>
