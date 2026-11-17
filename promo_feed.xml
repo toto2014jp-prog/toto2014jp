@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>2026年、AIで稼いでる人の共通点
+
+① 毎日AIを触っている
+② 1つの分野に特化している
+③ アウトプットし続けている
+④ 失敗を恐れない
+⑤ 情報収集を怠らない
+
+センスじゃなく「習慣」の差です
+
+#AI副業 #副業 #マインドセット</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Tue, 17 Nov 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">df3b5fa50c5ba258c8dca04a24b3ceb9</guid>
+    </item>
     <item>
       <title>n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026</title>
       <description>📝 n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026
@@ -145,23 +162,6 @@ https://ai-jissen-lab.com/2026/06/16/Claude-APIGASスプレッドシート連携
       <link>https://ai-jissen-lab.com/2026/06/16/Claude-APIGASスプレッドシート連携やり方AI要約自動書き込み手順2026/</link>
       <pubDate>Fri, 13 Nov 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">b05a9d134ad907376db4ddf5d7fcc7a6</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>Claude 4が発表されましたが、ChatGPTとどう使い分けてますか？
-
-私の使い分け👇
-・長文の要約・分析 → Claude
-・アイデア出し・雑談 → ChatGPT
-・画像生成 → ChatGPT
-・コーディング → Claude
-
-皆さんはどう使い分けてますか？
-
-#AI #ChatGPT #Claude</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Thu, 12 Nov 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">f970181ccf9ddecfe6b1cbbe29190e5e</guid>
     </item>
   </channel>
 </rss>
