@@ -8,8 +8,21 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026</title>
+      <description>📝 n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026
+
+n8nでSlack通知をBlock Kit整形＋ボタン付きインタラクティブ通知にする手順を解説。JSONの正しい渡し方・Webhook連携・Signing Se
+
+https://ai-jissen-lab.com/2026/06/05/n8n-Slack通知カスタマイズBlock-Kit整形ボタン設定手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/05/n8n-Slack通知カスタマイズBlock-Kit整形ボタン設定手順2026/</link>
+      <pubDate>Tue, 17 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">84372388f5bd271b14033553e368f7a7</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTの「カスタム指示」使ってますか？
@@ -149,20 +162,6 @@ https://ai-jissen-lab.com/2026/06/16/Claude-APIGASスプレッドシート連携
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 12 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">f970181ccf9ddecfe6b1cbbe29190e5e</guid>
-    </item>
-    <item>
-      <title>ChatGPT業務自動化 実践テンプレート集</title>
-      <description>ChatGPT APIをスプレッドシートから呼ぶ方法、知ってますか？
-
-=GPT(プロンプト) というカスタム関数を作れば、商品説明の一括生成も翻訳も一瞬です
-
-そのGASコード全文を教材に収録しました👇
-https://aijissenlab.gumroad.com/l/irvscs
-
-#GoogleAppsScript #ChatGPT</description>
-      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
-      <pubDate>Thu, 12 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">89fd7c35f6892a7b579c8b4b53e4bda1</guid>
     </item>
   </channel>
 </rss>
