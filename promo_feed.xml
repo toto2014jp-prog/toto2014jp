@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
+
+① ジャンル選定
+② WordPress初期設定
+③ AI記事作成
+④ SEO対策
+⑤ 収益化設定
+
+全部まとめた1冊です📖
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ初心者 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Wed, 18 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">49aee330b17ee5beab69958748b6d1c9</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>2026年、AIで稼いでる人の共通点
@@ -150,18 +168,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Fri, 13 Nov 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">18d878710bb39a28e6092dfd1ef6092d</guid>
-    </item>
-    <item>
-      <title>Claude API×GASスプレッドシート連携やり方｜AI要約・自動書き込み手順2026</title>
-      <description>💡 Claude API×GASスプレッドシート連携やり方｜AI要約・自動書き込み手順2026
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/06/16/Claude-APIGASスプレッドシート連携やり方AI要約自動書き込み手順2026/
-
-#AI #Claude #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/06/16/Claude-APIGASスプレッドシート連携やり方AI要約自動書き込み手順2026/</link>
-      <pubDate>Fri, 13 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">b05a9d134ad907376db4ddf5d7fcc7a6</guid>
     </item>
   </channel>
 </rss>
