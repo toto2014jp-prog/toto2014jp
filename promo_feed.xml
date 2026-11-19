@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026</title>
+      <description>💡 n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/06/03/n8n-Gmail-添付ファイル-Googleドライブ自動保存ノーコード設定手順2026/
+
+#AI活用</description>
+      <link>https://ai-jissen-lab.com/2026/06/03/n8n-Gmail-添付ファイル-Googleドライブ自動保存ノーコード設定手順2026/</link>
+      <pubDate>Thu, 19 Nov 2026 12:30:02 +0900</pubDate>
+      <guid isPermaLink="false">b698f2fc5276a2435ece609abc1a011b</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>Excelの作業、まだ手動でやってますか？
@@ -148,24 +160,6 @@ https://ai-jissen-lab.com/2026/06/06/n8n-Notionデータベース連携やり方
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 14 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">078b2252deabf029e98dbb56f8cc4e78</guid>
-    </item>
-    <item>
-      <title>ChatGPT＆Claude AIプロンプト集50選</title>
-      <description>💡 ChatGPTを使っていて「もっと良い回答がほしい」と思ったことありませんか？
-
-プロが使う50のプロンプトテンプレートを公開中
-
-✅ 8カテゴリ完全網羅
-✅ コピペで即使用OK
-✅ ChatGPT / Claude / Gemini対応
-
-¥980で仕事が10倍速く
-https://aijissenlab.gumroad.com/l/yjcdam
-
-#AI活用 #ChatGPT #プロンプト</description>
-      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
-      <pubDate>Sat, 14 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">51d18b9adfecd26180892d0a0273de3b</guid>
     </item>
   </channel>
 </rss>
