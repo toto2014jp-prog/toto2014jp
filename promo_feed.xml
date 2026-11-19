@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>【保存版】議事録が5分で終わるプロンプト
+
+これをコピペするだけ👇
+
+「以下の会議メモを①決定事項②ToDo（担当者・期限）③未解決の論点 に整理して。箇条書きで簡潔に」
+
+あとは会議メモを貼るだけ。手書きの殴り書きでもOKです
+
+保存して次の会議で使ってみてください
+
+#ChatGPT #業務効率化</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Thu, 19 Nov 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">458fc45761636665fe173b40cdaf7228</guid>
+    </item>
     <item>
       <title>n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026</title>
       <description>💡 n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026
@@ -143,23 +160,6 @@ https://ai-jissen-lab.com/2026/06/06/n8n-Notionデータベース連携やり方
       <link>https://ai-jissen-lab.com/2026/06/06/n8n-Notionデータベース連携やり方新規ページ自動作成プロパティ書き込み手順2026/</link>
       <pubDate>Sun, 15 Nov 2026 12:30:02 +0900</pubDate>
       <guid isPermaLink="false">e59de4aaaf003599f58e7a98e67e5037</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【知らないと損】無料で使えるAIツール5選
-
-1. ChatGPT（無料版でも十分）
-2. Claude（毎日無料で使える）
-3. Perplexity（AI検索）
-4. Canva AI（デザイン）
-5. DeepL（翻訳）
-
-全部0円で始められます
-
-#AI #無料ツール #おすすめ</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Sat, 14 Nov 2026 20:30:02 +0900</pubDate>
-      <guid isPermaLink="false">078b2252deabf029e98dbb56f8cc4e78</guid>
     </item>
   </channel>
 </rss>
