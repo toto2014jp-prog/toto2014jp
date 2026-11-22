@@ -8,8 +8,23 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT＆Claude AIプロンプト集50選</title>
+      <description>「AIに何を聞けばいいかわからない…」
+
+ビジネスメール・企画書・データ分析・プログラミングなど8分野のプロンプト50選をまとめました
+
+コピペして変数を埋めるだけで即使える実践的テンプレート集です
+
+https://aijissenlab.gumroad.com/l/yjcdam
+
+#AI #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/yjcdam</link>
+      <pubDate>Sun, 22 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">1bf8f592c79f5f95e9d93523582c0a12</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>ChatGPTに「もっと良い回答」を出させる魔法の一言
@@ -148,19 +163,6 @@ https://aijissenlab.gumroad.com/l/zxrhbg
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Tue, 17 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">df3b5fa50c5ba258c8dca04a24b3ceb9</guid>
-    </item>
-    <item>
-      <title>n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026</title>
-      <description>📝 n8n Slack通知カスタマイズ｜Block Kit整形・ボタン設定手順2026
-
-n8nでSlack通知をBlock Kit整形＋ボタン付きインタラクティブ通知にする手順を解説。JSONの正しい渡し方・Webhook連携・Signing Se
-
-https://ai-jissen-lab.com/2026/06/05/n8n-Slack通知カスタマイズBlock-Kit整形ボタン設定手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/05/n8n-Slack通知カスタマイズBlock-Kit整形ボタン設定手順2026/</link>
-      <pubDate>Tue, 17 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">84372388f5bd271b14033553e368f7a7</guid>
     </item>
   </channel>
 </rss>
