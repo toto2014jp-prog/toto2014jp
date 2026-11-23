@@ -8,8 +8,20 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor AI GAS自動生成｜非エンジニアのNotion連携スクリプト作成手順</title>
+      <description>💡 Cursor AI GAS自動生成｜非エンジニアのNotion連携スクリプト作成手順
+
+まだ読んでない方はぜひ👇
+https://ai-jissen-lab.com/2026/05/30/Cursor-AI-GAS自動生成非エンジニアのNotion連携スクリプト作成手順/
+
+#AI</description>
+      <link>https://ai-jissen-lab.com/2026/05/30/Cursor-AI-GAS自動生成非エンジニアのNotion連携スクリプト作成手順/</link>
+      <pubDate>Mon, 23 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">d093ca94df24d96561f85230f18c345b</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>AIツール、結局どれ使えばいいの？という人へ
@@ -146,24 +158,6 @@ ChatGPTに「このデータを○○形式に変換して」と頼むだけで�
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Wed, 18 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">762c20e682ad1648bcaf554e1411e65c</guid>
-    </item>
-    <item>
-      <title>AIブログ運営 月1万円達成ステップガイド</title>
-      <description>ブログ初心者がAIを使って月1万円稼ぐまでのロードマップ
-
-① ジャンル選定
-② WordPress初期設定
-③ AI記事作成
-④ SEO対策
-⑤ 収益化設定
-
-全部まとめた1冊です📖
-https://aijissenlab.gumroad.com/l/zxrhbg
-
-#ブログ初心者 #副業</description>
-      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
-      <pubDate>Wed, 18 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">49aee330b17ee5beab69958748b6d1c9</guid>
     </item>
   </channel>
 </rss>
