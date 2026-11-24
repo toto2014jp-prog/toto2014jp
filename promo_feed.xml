@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI副業スタートアップ完全チェックリスト</title>
+      <description>会社員しながらAI副業を始めたいけど、何から手をつけていいかわからない…
+
+7フェーズ・100項目超のチェックリストで迷わず進めます
+
+✅ マインドセットから収益化まで網羅
+✅ チェックボックスで進捗管理
+✅ おすすめツール早見表付き
+
+¥980
+https://aijissenlab.gumroad.com/l/tokndw
+
+#AI副業 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/tokndw</link>
+      <pubDate>Tue, 24 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">ae129ce000718a25469d855a9dc3d754</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【知らないと損】ChatGPTの精度が上がる5つの型
@@ -150,18 +168,6 @@ https://aijissenlab.gumroad.com/l/irvscs
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Thu, 19 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">458fc45761636665fe173b40cdaf7228</guid>
-    </item>
-    <item>
-      <title>n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026</title>
-      <description>💡 n8n Gmail 添付ファイル Googleドライブ自動保存｜ノーコード設定手順2026
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/06/03/n8n-Gmail-添付ファイル-Googleドライブ自動保存ノーコード設定手順2026/
-
-#AI活用</description>
-      <link>https://ai-jissen-lab.com/2026/06/03/n8n-Gmail-添付ファイル-Googleドライブ自動保存ノーコード設定手順2026/</link>
-      <pubDate>Thu, 19 Nov 2026 12:30:02 +0900</pubDate>
-      <guid isPermaLink="false">b698f2fc5276a2435ece609abc1a011b</guid>
     </item>
   </channel>
 </rss>
