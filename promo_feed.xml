@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:30:02 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI活用Tips</title>
+      <description>「AIに聞いても浅い答えしか返ってこない」
+
+原因は9割これ👇
+
+“前提を渡していない”
+
+NG:「マーケ施策を教えて」
+OK:「BtoB SaaS・予算月10万・財務担当向けのマーケ施策を5つ、根拠付きで」
+
+具体性が9割です
+
+#AI活用 #プロンプト</description>
+      <link>https://ai-jissen-lab.com</link>
+      <pubDate>Wed, 25 Nov 2026 20:30:02 +0900</pubDate>
+      <guid isPermaLink="false">027aecc48fdc8ee989d2acd3bb09fc5f</guid>
+    </item>
     <item>
       <title>Perplexity AIスマホアプリの使い方｜設定・検索テク・無料制限を解説</title>
       <description>📝 Perplexity AIスマホアプリの使い方｜設定・検索テク・無料制限を解説
@@ -147,22 +165,6 @@ https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIスプレッドシート連携GA
       <link>https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIスプレッドシート連携GAS初心者向け設定と自動化手順/</link>
       <pubDate>Sat, 21 Nov 2026 12:30:01 +0900</pubDate>
       <guid isPermaLink="false">d178b7b5a2cf09a0f8869ea0696b40e5</guid>
-    </item>
-    <item>
-      <title>AI活用Tips</title>
-      <description>【コピペOK】返信に困るメールへの神プロンプト
-
-「次のメールに対して、丁寧だが角が立たない返信を3パターン作って。それぞれトーンを変えて」
-
-↓こう変わる
-・断りメールが秒で完成
-・気まずい催促もスマートに
-・英文メールも同じ手順でOK
-
-#ChatGPT #ビジネスメール</description>
-      <link>https://ai-jissen-lab.com</link>
-      <pubDate>Fri, 20 Nov 2026 20:30:01 +0900</pubDate>
-      <guid isPermaLink="false">e26f641460b432df8b3317656586b199</guid>
     </item>
   </channel>
 </rss>
