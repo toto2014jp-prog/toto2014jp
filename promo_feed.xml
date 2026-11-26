@@ -8,8 +8,26 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIブログ運営 月1万円達成ステップガイド</title>
+      <description>AIを使ってブログで月1万円稼ぎたい方へ
+
+ジャンル選定→記事作成→SEO→収益化まで全8ステップを完全解説
+
+✅ すぐ使えるAIプロンプト8種収録
+✅ WordPress設定チェックリスト付き
+✅ 収益モデル例も掲載
+
+¥980で始められます
+https://aijissenlab.gumroad.com/l/zxrhbg
+
+#ブログ #AI活用 #副業</description>
+      <link>https://aijissenlab.gumroad.com/l/zxrhbg</link>
+      <pubDate>Thu, 26 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">8aac0c11d9c3ac7b6635359802ef8b8d</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>「AIに聞いても浅い答えしか返ってこない」
@@ -153,18 +171,6 @@ https://aijissenlab.gumroad.com/l/yjcdam
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Sat, 21 Nov 2026 20:30:02 +0900</pubDate>
       <guid isPermaLink="false">64fc62fb2e51f870750531183063ce9f</guid>
-    </item>
-    <item>
-      <title>ChatGPT API×スプレッドシート連携｜GAS初心者向け設定と自動化手順</title>
-      <description>🔍 GAS×ChatGPT APIでスプレッドシートを自動化する手順を解説。APIキーの安全な設定からエラー対策・コスト節約まで、初心者がつまずく落とし穴をコピペコード付きで紹介。
-
-詳しくはこちら👇
-https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIスプレッドシート連携GAS初心者向け設定と自動化手順/
-
-#AI #ChatGPT #業務自動化</description>
-      <link>https://ai-jissen-lab.com/2026/05/22/ChatGPT-APIスプレッドシート連携GAS初心者向け設定と自動化手順/</link>
-      <pubDate>Sat, 21 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">d178b7b5a2cf09a0f8869ea0696b40e5</guid>
     </item>
   </channel>
 </rss>
