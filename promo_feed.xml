@@ -8,8 +8,25 @@ layout: null
     <link>https://ai-jissen-lab.com</link>
     <description>AI実践ラボの商品情報・おすすめ記事をお届けします</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:30:01 +0900</lastBuildDate>
     <atom:link href="https://ai-jissen-lab.com/promo_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT業務自動化 実践テンプレート集</title>
+      <description>「ChatGPTは使えるけど、業務の自動化までは手が出せていない」
+
+そんな方へ。動くGASコード＋API設定手順＋プロンプトをワンセットで収録した実装特化型テンプレート集を公開しました
+
+✅ スプレッドシート連携
+✅ メール・議事録・請求書の自動化
+
+¥1,480
+https://aijissenlab.gumroad.com/l/irvscs
+
+#ChatGPT #業務効率化</description>
+      <link>https://aijissenlab.gumroad.com/l/irvscs</link>
+      <pubDate>Sat, 28 Nov 2026 12:30:01 +0900</pubDate>
+      <guid isPermaLink="false">4ce4c18d3a30085157aa6712e5b83c7f</guid>
+    </item>
     <item>
       <title>AI活用Tips</title>
       <description>【保存推奨】ChatGPTを使う時の5つのコツ
@@ -160,18 +177,6 @@ https://aijissenlab.gumroad.com/l/tokndw
       <link>https://ai-jissen-lab.com</link>
       <pubDate>Mon, 23 Nov 2026 20:30:01 +0900</pubDate>
       <guid isPermaLink="false">32fe9adf99c8081bf2103c4d434b2d85</guid>
-    </item>
-    <item>
-      <title>Cursor AI GAS自動生成｜非エンジニアのNotion連携スクリプト作成手順</title>
-      <description>💡 Cursor AI GAS自動生成｜非エンジニアのNotion連携スクリプト作成手順
-
-まだ読んでない方はぜひ👇
-https://ai-jissen-lab.com/2026/05/30/Cursor-AI-GAS自動生成非エンジニアのNotion連携スクリプト作成手順/
-
-#AI</description>
-      <link>https://ai-jissen-lab.com/2026/05/30/Cursor-AI-GAS自動生成非エンジニアのNotion連携スクリプト作成手順/</link>
-      <pubDate>Mon, 23 Nov 2026 12:30:01 +0900</pubDate>
-      <guid isPermaLink="false">d093ca94df24d96561f85230f18c345b</guid>
     </item>
   </channel>
 </rss>
